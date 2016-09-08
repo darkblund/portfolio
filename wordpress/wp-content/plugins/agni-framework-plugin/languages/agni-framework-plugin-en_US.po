@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Agni Framework\n"
+"POT-Creation-Date: 2016-01-28 08:32+0530\n"
+"PO-Revision-Date: 2016-01-28 08:33+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/custom-posttype-taxonomies.php:11
+msgctxt "Portfolio General Name"
+msgid "Portfolios"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:12
+msgctxt "Portfolio Singular Name"
+msgid "Portfolio"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:13
+msgid "Portfolio"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:14
+msgid "Parent Item:"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:15
+msgid "All Items"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:16
+msgid "View Item"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:17
+msgid "Add New Work"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:18
+msgid "Add New"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:19
+msgid "Edit Item"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:20
+msgid "Update Item"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:21
+msgid "Search Item"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:22
+msgid "Not found"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:23
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:59
+msgctxt "post type general name"
+msgid "Team Member"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:60
+msgctxt "post type singular name"
+msgid "Member"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:61 inc/custom-posttype-taxonomies.php:62
+msgid "Add New Member"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:63
+msgid "All Members"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:64
+msgid "Edit Member"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:65
+msgid "New Member"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:66
+msgid "View Member"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:67
+msgid "Search Members"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:68 inc/custom-posttype-taxonomies.php:69
+#: inc/custom-posttype-taxonomies.php:70 inc/custom-posttype-taxonomies.php:79
+msgid "Member"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:71
+msgid "Team Members"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:107
+msgctxt "post type general name"
+msgid "Clients"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:108
+msgctxt "post type singular name"
+msgid "Client"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:109
+#: inc/custom-posttype-taxonomies.php:110
+msgid "Add New Client"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:111
+msgid "All Clients"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:112
+msgid "Edit Client"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:113
+msgid "New Client"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:114
+msgid "View Client"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:115
+msgid "Search Clients"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:116
+#: inc/custom-posttype-taxonomies.php:117
+#: inc/custom-posttype-taxonomies.php:118
+#: inc/custom-posttype-taxonomies.php:127
+msgid "Client"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:119
+msgid "Clients"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:155
+msgctxt "post type general name"
+msgid "Testimonials"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:156
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:157
+#: inc/custom-posttype-taxonomies.php:158
+msgid "Add New Testimonial"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:159
+msgid "All Testimonials"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:160
+msgid "Edit Testimonial"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:161
+msgid "New Testimonial"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:162
+msgid "View Testimonial"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:163
+msgid "Search Testimonials"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:164
+#: inc/custom-posttype-taxonomies.php:165
+#: inc/custom-posttype-taxonomies.php:166
+#: inc/custom-posttype-taxonomies.php:175
+msgid "Testimonial"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:167
+msgid "Testimonials"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:203
+msgctxt "post type general name"
+msgid "Slides"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:204
+msgctxt "post type singular name"
+msgid "Slide"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:205
+#: inc/custom-posttype-taxonomies.php:206
+msgid "Add New Slide"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:207
+msgid "All Slides"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:208
+msgid "Edit Slide"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:209
+msgid "New Slide"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:210
+msgid "View Slide"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:211
+msgid "Search Slides"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:212
+#: inc/custom-posttype-taxonomies.php:213
+#: inc/custom-posttype-taxonomies.php:214
+#: inc/custom-posttype-taxonomies.php:223
+msgid "Slide"
+msgstr ""
+
+#: inc/custom-posttype-taxonomies.php:215
+msgid "Agni Slider"
+msgstr ""

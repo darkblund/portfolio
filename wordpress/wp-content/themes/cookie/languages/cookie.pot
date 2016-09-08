@@ -1,0 +1,7075 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cookie\n"
+"POT-Creation-Date: 2016-02-28 19:53+0530\n"
+"PO-Revision-Date: 2016-02-28 19:55+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: agni/metaboxes/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2.php:326
+msgid "Click to toggle"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_Ajax.php:135
+msgid "Remove Embed"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_Ajax.php:139
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_Field.php:910
+msgid "Add Group"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_Field.php:911
+msgid "Remove Group"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_Field.php:933
+#: agni/metaboxes/includes/CMB2_Field.php:937
+#: template/composer/agni_vc_addons.php:4758
+#: template/composer/agni_vc_addons.php:4789
+#: template/composer/agni_vc_addons.php:5734
+#: template/composer/agni_vc_addons.php:5881
+#: template/composer/agni_vc_addons.php:6029
+#: template/composer/agni_vc_addons.php:6375
+#: template/composer/agni_vc_addons.php:6431
+#: template/composer/agni_vc_addons.php:6652
+#: template/custom-redux-options.php:1843
+#: template/custom-redux-options.php:1943
+msgid "None"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:86
+#: agni/metaboxes/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:87
+#: template/composer/agni_vc_addons.php:2984
+#: template/composer/agni_vc_addons.php:3146
+#: template/composer/agni_vc_addons.php:3157
+#: template/composer/agni_vc_addons.php:3171
+#: template/composer/agni_vc_addons.php:3236
+#: template/composer/agni_vc_addons.php:3297
+#: template/composer/agni_vc_addons.php:3399
+#: template/composer/agni_vc_addons.php:3447
+#: template/composer/agni_vc_addons.php:3642
+#: template/composer/agni_vc_addons.php:3690
+#: template/composer/agni_vc_addons.php:3978
+#: template/composer/agni_vc_addons.php:3996
+#: template/composer/agni_vc_addons.php:4470
+#: template/composer/agni_vc_addons.php:4590
+#: template/composer/agni_vc_addons.php:4604
+#: template/composer/agni_vc_addons.php:5270
+#: template/composer/agni_vc_addons.php:5285
+#: template/composer/agni_vc_addons.php:5353
+#: template/composer/agni_vc_addons.php:5416
+#: template/custom-metabox-functions.php:240
+#: template/custom-metabox-functions.php:597
+#: template/custom-metabox-functions.php:755
+#: template/custom-metabox-functions.php:779
+#: template/custom-metabox-functions.php:991
+#: template/custom-metabox-functions.php:1227
+#: template/custom-metabox-functions.php:1251
+#: template/custom-metabox-functions.php:1522
+#: template/custom-metabox-functions.php:1556
+#: template/custom-redux-options.php:2401
+msgid "Default"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:115 template/theme-functions.php:210
+#: woocommerce/loop/pagination.php:31
+msgid "Next"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:118
+#: agni/metaboxes/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:137
+#: agni/metaboxes/includes/CMB2_Types.php:990
+msgid "Remove Image"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:138
+#: agni/metaboxes/includes/CMB2_Types.php:357
+#: agni/metaboxes/includes/CMB2_Types.php:1009
+msgid "Remove"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:139
+#: agni/metaboxes/includes/CMB2_Types.php:1004
+msgid "File:"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:140
+#: agni/metaboxes/includes/CMB2_Types.php:1007
+msgid "Download"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_Types.php:298
+msgid "Add Row"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_Types.php:735
+#: agni/metaboxes/includes/CMB2_Types.php:783
+msgid "No terms"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_Types.php:850
+msgid "Add or Upload Files"
+msgstr ""
+
+#: agni/metaboxes/includes/CMB2_Types.php:912
+msgid "Add or Upload File"
+msgstr ""
+
+#: agni/metaboxes/includes/helper-functions.php:249
+msgid "Save"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:333
+#: template/theme-functions.php:1221
+msgid "Install Required Plugins"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:334
+#: template/theme-functions.php:1222
+msgid "Install Plugins"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:335
+#: template/theme-functions.php:1223
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:336
+#: template/theme-functions.php:1224
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:338
+#: template/theme-functions.php:1225
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:343
+#: template/theme-functions.php:1226
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:353
+#: template/theme-functions.php:1231
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:368
+#: template/theme-functions.php:1228
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:373
+#: template/theme-functions.php:1229
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:383
+#: template/theme-functions.php:1233
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:397
+#: template/theme-functions.php:1235
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:399
+#: agni/tgm/class-tgm-plugin-activation.php:3021
+#: template/theme-functions.php:1236
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:400
+#: agni/tgm/class-tgm-plugin-activation.php:2824
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:820
+#: agni/tgm/class-tgm-plugin-activation.php:3430
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:927
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:927
+#: agni/tgm/class-tgm-plugin-activation.php:930
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:930
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:1108
+#: agni/tgm/class-tgm-plugin-activation.php:2820
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:1873
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2159
+msgid "Required"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2162
+msgid "Recommended"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2178
+msgid "WordPress Repository"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2181
+msgid "External Source"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2184
+msgid "Pre-Packaged"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2201
+msgid "Not Installed"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2205
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2207
+#: template/composer/agni_vc_addons.php:2622
+#: template/composer/agni_vc_addons.php:2662
+msgid "Active"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2213
+msgid "Required Update not Available"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2216
+msgid "Requires Update"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2219
+msgid "Update recommended"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2227
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2272
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2275
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2278
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2281
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2363
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2371
+msgid "Installed version:"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2379
+msgid "Minimum required version:"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2391
+msgid "Available version:"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2414
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2428
+msgid "Plugin"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2429
+msgid "Source"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2430
+msgid "Type"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2434
+msgid "Version"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2435
+msgid "Status"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2483
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2487
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2492
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2562
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2595
+msgid "Install"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2601
+msgid "Update"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2604
+msgid "Activate"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2635
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2637
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2673
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2675
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2780
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:2806
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:3020
+msgid "Plugin activation failed."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:3354
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:3356
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:3357
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:3361
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:3362
+#: agni/tgm/class-tgm-plugin-activation.php:3368
+msgid "Show Details"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:3362
+#: agni/tgm/class-tgm-plugin-activation.php:3368
+msgid "Hide Details"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:3363
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:3367
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:3368
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:3369
+msgid "All installations have been completed."
+msgstr ""
+
+#: agni/tgm/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:54
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:55
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:75
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:76 woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:77
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:78 woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr ""
+
+#: comments.php:82
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:89
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+
+#: comments.php:98
+msgid "Name *"
+msgstr ""
+
+#: comments.php:105
+msgid "Email *"
+msgstr ""
+
+#: comments.php:112
+msgid "Website"
+msgstr ""
+
+#: comments.php:120
+msgid "Message *"
+msgstr ""
+
+#: header-comingsoon.php:112 header.php:143
+msgid "Type & Hit Enter"
+msgstr ""
+
+#: header-comingsoon.php:128 header.php:159
+#: template/woocommerce/functions.php:42
+msgid "View your shopping cart"
+msgstr ""
+
+#: header-comingsoon.php:128 header.php:159
+#: template/woocommerce/functions.php:42
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-grid.php:52 template-parts/content-page.php:25
+#: template-parts/content-single.php:47 template-parts/content.php:56
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:50
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:119
+msgid "1 column - 1/12"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:120
+msgid "2 columns - 1/6"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:121
+msgid "3 columns - 1/4"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:122
+msgid "4 columns - 1/3"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:123
+msgid "5 columns - 5/12"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:124
+msgid "6 columns - 1/2"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:125
+msgid "7 columns - 7/12"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:126
+msgid "8 columns - 2/3"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:127
+msgid "9 columns - 3/4"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:128
+msgid "10 columns - 5/6"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:129
+msgid "11 columns - 11/12"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:130
+msgid "12 columns - 1/1"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:134
+#: template/composer/agni_vc_addons.php:2418
+#: template/composer/agni_vc_addons.php:6536
+msgid "Animation"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:213
+#: template/composer/agni_vc_addons.php:2497
+#: template/composer/agni_vc_addons.php:2540
+msgid "Select how the content will be aligned in column"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:214
+#: template/composer/agni_vc_addons.php:2498
+#: template/composer/agni_vc_addons.php:2508
+#: template/composer/agni_vc_addons.php:2516
+#: template/composer/agni_vc_addons.php:2525
+#: template/composer/agni_vc_addons.php:4215
+#: template/composer/agni_vc_addons.php:4279
+#: template/composer/agni_vc_addons.php:4435
+#: template/composer/agni_vc_addons.php:4813
+#: template/composer/agni_vc_addons.php:4820
+#: template/composer/agni_vc_addons.php:4828
+#: template/composer/agni_vc_addons.php:6538
+#: template/composer/agni_vc_addons.php:6558
+#: template/composer/agni_vc_addons.php:6567
+msgid "Animation Setting"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2124
+msgid "Row stretch"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2128
+msgid "Default(container)"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2129
+msgid "Fullwidth content"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2130
+msgid "Fullwidth content w/o padding"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2132
+#: template/composer/agni_vc_addons.php:2156
+msgid ""
+"choose any one to display the content on this paricular row. This option "
+"affect only the content not the background."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2137
+msgid "Act as a Table"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2140
+msgid "It makes all the columns with equal height"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2141
+#: template/composer/agni_vc_addons.php:2376
+msgid "Enable"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2148
+#: template/custom-metabox-functions.php:449
+msgid "Background Choice"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2152
+#: template/composer/agni_vc_addons.php:2161
+#: template/composer/agni_vc_addons.php:2880
+#: template/composer/agni_vc_addons.php:3269
+#: template/composer/agni_vc_addons.php:3418
+#: template/composer/agni_vc_addons.php:3661
+#: template/composer/agni_vc_addons.php:4015
+#: template/composer/agni_vc_addons.php:4108
+#: template/composer/agni_vc_addons.php:4766
+#: template/composer/agni_vc_addons.php:5387
+#: template/custom-metabox-functions.php:459
+msgid "Background Color"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2153
+#: template/composer/agni_vc_addons.php:2169
+#: template/custom-metabox-functions.php:471
+msgid "Background Image"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2157
+#: template/composer/agni_vc_addons.php:2165
+#: template/composer/agni_vc_addons.php:2173
+#: template/composer/agni_vc_addons.php:2185
+#: template/composer/agni_vc_addons.php:2200
+#: template/composer/agni_vc_addons.php:2221
+#: template/composer/agni_vc_addons.php:2236
+#: template/composer/agni_vc_addons.php:2250
+#: template/composer/agni_vc_addons.php:2257
+#: template/composer/agni_vc_addons.php:2264
+#: template/composer/agni_vc_addons.php:2271
+#: template/composer/agni_vc_addons.php:2279
+#: template/composer/agni_vc_addons.php:2286
+#: template/composer/agni_vc_addons.php:2293
+#: template/composer/agni_vc_addons.php:2300
+#: template/composer/agni_vc_addons.php:2309
+#: template/composer/agni_vc_addons.php:2317
+#: template/composer/agni_vc_addons.php:2325
+#: template/composer/agni_vc_addons.php:2333
+#: template/composer/agni_vc_addons.php:2341
+#: template/composer/agni_vc_addons.php:2356
+#: template/composer/agni_vc_addons.php:2364
+msgid "Design Settings"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2163
+msgid "select the background color for this row section"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2171
+msgid "Select background image for your row"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2177
+msgid "Background Repeat"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2180
+msgid "Repeat"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2181
+msgid "No Repeat"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2183
+#: template/composer/agni_vc_addons.php:2198
+#: template/composer/agni_vc_addons.php:2219
+msgid "Select how the background image will be repeated"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2192
+msgid "Background Size"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2195
+msgid "Cover"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2196
+msgid "Auto"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2206
+msgid "Background Position"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2209
+msgid "center center"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2210
+msgid "left top"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2211
+msgid "left center"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2212
+msgid "left bottom"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2213
+msgid "right top"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2214
+msgid "right center"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2215
+msgid "right bottom"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2216
+msgid "center top"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2217
+msgid "center bottom"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2228
+msgid "Background attachment"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2231
+msgid "Scroll"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2232
+msgid "Fixed"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2234
+msgid "Select how the background image will be attached"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2247
+#: template/composer/agni_vc_addons.php:4626
+#: template/composer/agni_vc_addons.php:5309
+msgid "Top margin"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2249
+#: template/composer/agni_vc_addons.php:2278
+#: template/composer/agni_vc_addons.php:2363
+#: template/composer/agni_vc_addons.php:2583
+#: template/composer/agni_vc_addons.php:2592
+#: template/composer/agni_vc_addons.php:2800
+#: template/composer/agni_vc_addons.php:2808
+#: template/composer/agni_vc_addons.php:2933
+#: template/composer/agni_vc_addons.php:3086
+#: template/composer/agni_vc_addons.php:3093
+#: template/composer/agni_vc_addons.php:3100
+#: template/composer/agni_vc_addons.php:3184
+#: template/composer/agni_vc_addons.php:3192
+#: template/composer/agni_vc_addons.php:3247
+#: template/composer/agni_vc_addons.php:3255
+#: template/composer/agni_vc_addons.php:3263
+#: template/composer/agni_vc_addons.php:3309
+#: template/composer/agni_vc_addons.php:3412
+#: template/composer/agni_vc_addons.php:3459
+#: template/composer/agni_vc_addons.php:3655
+#: template/composer/agni_vc_addons.php:3702
+#: template/composer/agni_vc_addons.php:3988
+#: template/composer/agni_vc_addons.php:4159
+#: template/composer/agni_vc_addons.php:4173
+#: template/composer/agni_vc_addons.php:4481
+#: template/composer/agni_vc_addons.php:4582
+#: template/composer/agni_vc_addons.php:4628
+#: template/composer/agni_vc_addons.php:4636
+#: template/composer/agni_vc_addons.php:4643
+#: template/composer/agni_vc_addons.php:4650
+#: template/composer/agni_vc_addons.php:4782
+#: template/composer/agni_vc_addons.php:5261
+#: template/composer/agni_vc_addons.php:5311
+#: template/composer/agni_vc_addons.php:5320
+#: template/composer/agni_vc_addons.php:5328
+#: template/composer/agni_vc_addons.php:5336
+#: template/composer/agni_vc_addons.php:5365
+#: template/composer/agni_vc_addons.php:5373
+#: template/composer/agni_vc_addons.php:5381
+#: template/composer/agni_vc_addons.php:5428
+msgid ""
+"You can use px, em, %, etc. or enter just number and it will use pixels."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2255
+#: template/composer/agni_vc_addons.php:4648
+#: template/composer/agni_vc_addons.php:5334
+msgid "Right margin"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2262
+#: template/composer/agni_vc_addons.php:4641
+#: template/composer/agni_vc_addons.php:5326
+msgid "Bottom margin"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2269
+#: template/composer/agni_vc_addons.php:4634
+#: template/composer/agni_vc_addons.php:5318
+msgid "Left margin"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2276
+msgid "Top padding"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2284
+msgid "Right padding"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2291
+msgid "Bottom padding"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2298
+msgid "Left padding"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2306
+msgid "Top border"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2308
+#: template/composer/agni_vc_addons.php:2316
+#: template/composer/agni_vc_addons.php:2324
+#: template/composer/agni_vc_addons.php:2332
+msgid "enter just number and it will use pixels."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2314
+msgid "Right border"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2322
+msgid "Bottom border"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2330
+msgid "Left border"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2338
+#: template/composer/agni_vc_addons.php:3277
+#: template/composer/agni_vc_addons.php:3426
+#: template/composer/agni_vc_addons.php:3669
+#: template/composer/agni_vc_addons.php:4773
+#: template/composer/agni_vc_addons.php:5395
+msgid "Border Color"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2340
+msgid "select the border color for this row section"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2346
+msgid "Border Style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2349
+msgid "No style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2350
+#: template/composer/agni_vc_addons.php:3011
+msgid "Solid"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2351
+#: template/composer/agni_vc_addons.php:3012
+msgid "Dashed"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2352
+#: template/composer/agni_vc_addons.php:3013
+msgid "Dotted"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2353
+msgid "Double"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2355
+msgid "Select the border style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2361
+msgid "Border radius"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2373
+msgid "Background Parallax"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2375
+msgid ""
+"This parallax effect is purly based on skrollr. You can refer at https://"
+"github.com/Prinzhorn/skrollr"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2377
+#: template/composer/agni_vc_addons.php:2384
+#: template/composer/agni_vc_addons.php:2394
+#: template/composer/agni_vc_addons.php:2404
+#: template/composer/agni_vc_addons.php:4836
+#: template/composer/agni_vc_addons.php:4844
+#: template/composer/agni_vc_addons.php:4853
+msgid "Parallax Setting"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2381
+msgid "Element's Top at the Bottom."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2383
+msgid ""
+"type the background values when the element's top at the bottom. for ex. "
+"background-color: rgba(255, 255, 255, 1);"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2391
+msgid "Element's center at the center."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2393
+msgid "type the background values when the element's center at the center."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2401
+msgid "Element's bottom reach the Top."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2403
+msgid "type the background values when the element's bottom at the Top."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2506
+#: template/composer/agni_vc_addons.php:4811
+msgid "Animation Delay"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2514
+#: template/composer/agni_vc_addons.php:4818
+msgid "Animation Duration"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2522
+#: template/composer/agni_vc_addons.php:4212
+#: template/composer/agni_vc_addons.php:4276
+#: template/composer/agni_vc_addons.php:4432
+#: template/composer/agni_vc_addons.php:4825
+#: template/composer/agni_vc_addons.php:6563
+msgid "Animation Offset"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2524
+#: template/composer/agni_vc_addons.php:4827
+msgid ""
+"You can use \"simply number\" or \"%\" to denote the offset. for ex. 90%. It "
+"will trigger the animation only when the element reach 90% from the top."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2532
+msgid "Text alignment"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2536
+#: template/composer/agni_vc_addons.php:2611
+#: template/composer/agni_vc_addons.php:2650
+#: template/composer/agni_vc_addons.php:2693
+#: template/composer/agni_vc_addons.php:2825
+#: template/composer/agni_vc_addons.php:3025
+#: template/composer/agni_vc_addons.php:3517
+#: template/composer/agni_vc_addons.php:3529
+#: template/composer/agni_vc_addons.php:3763
+#: template/composer/agni_vc_addons.php:3775
+#: template/composer/agni_vc_addons.php:4196
+#: template/composer/agni_vc_addons.php:4382
+#: template/composer/agni_vc_addons.php:6391
+msgid "left"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2537
+#: template/composer/agni_vc_addons.php:2612
+#: template/composer/agni_vc_addons.php:2651
+#: template/composer/agni_vc_addons.php:2694
+#: template/composer/agni_vc_addons.php:3026
+#: template/composer/agni_vc_addons.php:3518
+#: template/composer/agni_vc_addons.php:3530
+#: template/composer/agni_vc_addons.php:3764
+#: template/composer/agni_vc_addons.php:3776
+#: template/composer/agni_vc_addons.php:4197
+#: template/composer/agni_vc_addons.php:4383
+#: template/composer/agni_vc_addons.php:6393
+msgid "right"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2538
+#: template/composer/agni_vc_addons.php:2610
+#: template/composer/agni_vc_addons.php:2649
+#: template/composer/agni_vc_addons.php:2692
+#: template/composer/agni_vc_addons.php:2826
+#: template/composer/agni_vc_addons.php:3024
+#: template/composer/agni_vc_addons.php:3516
+#: template/composer/agni_vc_addons.php:3762
+#: template/composer/agni_vc_addons.php:4195
+#: template/composer/agni_vc_addons.php:4381
+#: template/composer/agni_vc_addons.php:6392
+msgid "center"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2544
+msgid "White content"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2547
+msgid "if you want to switch your content/text color to white. check this."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2548
+#: template/composer/agni_vc_addons.php:2575
+#: template/composer/agni_vc_addons.php:2625
+#: template/composer/agni_vc_addons.php:2665
+#: template/composer/agni_vc_addons.php:2704
+#: template/composer/agni_vc_addons.php:2793
+#: template/composer/agni_vc_addons.php:2869
+#: template/composer/agni_vc_addons.php:3827
+#: template/composer/agni_vc_addons.php:3846
+#: template/composer/agni_vc_addons.php:3856
+#: template/composer/agni_vc_addons.php:3866
+#: template/composer/agni_vc_addons.php:4011
+#: template/composer/agni_vc_addons.php:4082
+#: template/composer/agni_vc_addons.php:4188
+#: template/composer/agni_vc_addons.php:4207
+#: template/composer/agni_vc_addons.php:4691
+#: template/composer/agni_vc_addons.php:4739
+#: template/composer/agni_vc_addons.php:4835
+#: template/composer/agni_vc_addons.php:4903
+#: template/composer/agni_vc_addons.php:4910
+#: template/composer/agni_vc_addons.php:4946
+#: template/composer/agni_vc_addons.php:4965
+#: template/composer/agni_vc_addons.php:4975
+#: template/composer/agni_vc_addons.php:4985
+#: template/composer/agni_vc_addons.php:5078
+#: template/composer/agni_vc_addons.php:5087
+#: template/composer/agni_vc_addons.php:5104
+#: template/composer/agni_vc_addons.php:5175
+#: template/composer/agni_vc_addons.php:5184
+#: template/composer/agni_vc_addons.php:5193
+#: template/composer/agni_vc_addons.php:5615
+#: template/composer/agni_vc_addons.php:5621
+#: template/composer/agni_vc_addons.php:5638
+#: template/composer/agni_vc_addons.php:5656
+#: template/composer/agni_vc_addons.php:5803
+#: template/composer/agni_vc_addons.php:5822
+#: template/composer/agni_vc_addons.php:5832
+#: template/composer/agni_vc_addons.php:5842
+#: template/composer/agni_vc_addons.php:5950
+#: template/composer/agni_vc_addons.php:5969
+#: template/composer/agni_vc_addons.php:5979
+#: template/composer/agni_vc_addons.php:5989
+#: template/composer/agni_vc_addons.php:6077
+#: template/composer/agni_vc_addons.php:6105
+#: template/composer/agni_vc_addons.php:6124
+#: template/composer/agni_vc_addons.php:6144
+#: template/composer/agni_vc_addons.php:6154
+#: template/composer/agni_vc_addons.php:6217
+#: template/composer/agni_vc_addons.php:6290
+#: template/composer/agni_vc_addons.php:6299
+#: template/composer/agni_vc_addons.php:6348
+#: template/composer/agni_vc_addons.php:6356
+#: template/composer/agni_vc_addons.php:6472
+#: template/composer/agni_vc_addons.php:6480
+#: template/composer/agni_vc_addons.php:6499
+#: template/composer/agni_vc_addons.php:6519
+#: template/composer/agni_vc_addons.php:6529
+#: template/composer/agni_vc_addons.php:6539
+msgid "Yes"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2562
+#: template/composer/agni_vc_addons.php:3208
+#: template/composer/agni_vc_addons.php:3379
+#: template/composer/agni_vc_addons.php:3622
+#: template/composer/agni_vc_addons.php:5222
+msgid "Icon"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2566
+#: template/composer/agni_vc_addons.php:2728
+#: template/composer/agni_vc_addons.php:3078
+#: template/composer/agni_vc_addons.php:3221
+#: template/composer/agni_vc_addons.php:3389
+#: template/composer/agni_vc_addons.php:3632
+#: template/composer/agni_vc_addons.php:3950
+#: template/composer/agni_vc_addons.php:4153
+#: template/composer/agni_vc_addons.php:4317
+#: template/composer/agni_vc_addons.php:4546
+#: template/composer/agni_vc_addons.php:5241
+msgid ""
+"<small>Select the icon which you want <strong>http://ionicons.com/, http://"
+"fortawesome.github.io/Font-Awesome/icons/, http://themes-pixeden.com/font-"
+"demos/7-stroke/index.html, http://themes-pixeden.com/font-demos/7-filled/"
+"index.html supported.</strong></small>"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2571
+#: template/composer/agni_vc_addons.php:2791
+msgid "Divide Line"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2572
+msgid "This will bring the small line below to the title."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2580
+#: template/composer/agni_vc_addons.php:2798
+msgid "Divide Line Width"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2589
+#: template/composer/agni_vc_addons.php:2806
+msgid "Divide Line Height"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2598
+#: template/composer/agni_vc_addons.php:2814
+msgid "Divide Line Color"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2606
+msgid "Divide Line alignment"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2614
+msgid "Select how the divide line will be aligned"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2624
+msgid "If you want this tab active.. than check it!!.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2632
+msgid "Tab Style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2636
+#: template/composer/agni_vc_addons.php:2679
+#: template/composer/agni_vc_addons.php:5538
+#: template/composer/agni_vc_addons.php:5760
+#: template/composer/agni_vc_addons.php:5907
+#: template/composer/agni_vc_addons.php:6322
+msgid "Style 1"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2637
+#: template/composer/agni_vc_addons.php:2680
+#: template/composer/agni_vc_addons.php:3069
+#: template/composer/agni_vc_addons.php:3362
+#: template/composer/agni_vc_addons.php:3562
+#: template/composer/agni_vc_addons.php:4090
+#: template/composer/agni_vc_addons.php:4144
+#: template/composer/agni_vc_addons.php:4245
+#: template/composer/agni_vc_addons.php:4307
+#: template/composer/agni_vc_addons.php:5539
+#: template/composer/agni_vc_addons.php:5761
+#: template/composer/agni_vc_addons.php:5908
+#: template/composer/agni_vc_addons.php:6323
+msgid "Style 2"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2638
+#: template/composer/agni_vc_addons.php:2681
+#: template/composer/agni_vc_addons.php:3363
+#: template/composer/agni_vc_addons.php:3563
+#: template/composer/agni_vc_addons.php:5540
+#: template/composer/agni_vc_addons.php:6324
+msgid "Style 3"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2640
+msgid "Select any of one style to display different type of tab"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2645
+#: template/composer/agni_vc_addons.php:2688
+#: template/composer/agni_vc_addons.php:3513
+#: template/composer/agni_vc_addons.php:3526
+#: template/composer/agni_vc_addons.php:3759
+#: template/composer/agni_vc_addons.php:3772
+#: template/composer/agni_vc_addons.php:4192
+#: template/composer/agni_vc_addons.php:4378
+#: template/composer/agni_vc_addons.php:6082
+msgid "Alignment"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2653
+msgid "Select how the tabs will be aligned"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2664
+msgid "If you want this tab .. than check it!!.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2675
+msgid "Accordion Style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2683
+msgid "Select any of one style to display different type of accordion"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2696
+msgid "Select how the toggles will be aligned"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2701
+msgid "Not an Accordion"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2703
+msgid "If you want to keep it as a toggle .. than check it!!.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2716
+msgid "Section heading"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2720
+#: template/composer/agni_vc_addons.php:2861
+#: template/composer/agni_vc_addons.php:2907
+#: template/composer/agni_vc_addons.php:2975
+msgid "Typography"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2721
+msgid "various headings for your section row"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2725
+#: template/composer/agni_vc_addons.php:3075
+#: template/composer/agni_vc_addons.php:3218
+#: template/composer/agni_vc_addons.php:3386
+#: template/composer/agni_vc_addons.php:3629
+#: template/composer/agni_vc_addons.php:3946
+#: template/composer/agni_vc_addons.php:4150
+#: template/composer/agni_vc_addons.php:4314
+#: template/composer/agni_vc_addons.php:4460
+#: template/composer/agni_vc_addons.php:4543
+#: template/composer/agni_vc_addons.php:5238
+msgid "Choose the icon"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2733
+msgid "Icon Size"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2735
+msgid "don't include \"px\" string"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2741
+#: template/composer/agni_vc_addons.php:3286
+#: template/composer/agni_vc_addons.php:3435
+#: template/composer/agni_vc_addons.php:3678
+#: template/composer/agni_vc_addons.php:5404
+msgid "Icon Color"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2743
+#: template/composer/agni_vc_addons.php:2816
+#: template/composer/agni_vc_addons.php:2956
+#: template/composer/agni_vc_addons.php:3288
+#: template/composer/agni_vc_addons.php:3437
+#: template/composer/agni_vc_addons.php:3680
+#: template/composer/agni_vc_addons.php:3727
+#: template/composer/agni_vc_addons.php:5453
+msgid "This will apply if the heading has divide line!!.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2749
+msgid "Heading Text"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2751
+#: template/composer/agni_vc_addons.php:2765
+msgid "Type or Enter your heading"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2755
+msgid "Heading Font Size"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2757
+#: template/composer/agni_vc_addons.php:2771
+#: template/composer/agni_vc_addons.php:2785
+msgid "simply type the number, do not include \"px\""
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2763
+msgid "Sub Heading Text"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2769
+msgid "Sub Heading Font Size"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2777
+#: template/composer/agni_vc_addons.php:3110
+msgid "Additional Text"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2779
+msgid "Additional text for your heading!!.. if any"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2783
+msgid "Additional Font Size"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2822
+msgid "Header alignment"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2827
+#: template/composer/agni_vc_addons.php:4619
+#: template/composer/agni_vc_addons.php:4747
+#: template/composer/agni_vc_addons.php:5301
+#: template/composer/agni_vc_addons.php:6087
+#: template/custom-metabox-functions.php:628
+#: template/custom-metabox-functions.php:793
+#: template/custom-metabox-functions.php:1005
+#: template/custom-metabox-functions.php:1265
+#: template/custom-metabox-functions.php:1574
+#: template/custom-redux-options.php:1861
+msgid "Right"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2829
+#: template/composer/agni_vc_addons.php:2843
+#: template/composer/agni_vc_addons.php:2926
+#: template/composer/agni_vc_addons.php:3028
+#: template/composer/agni_vc_addons.php:3240
+#: template/composer/agni_vc_addons.php:3301
+#: template/composer/agni_vc_addons.php:3403
+#: template/composer/agni_vc_addons.php:3451
+#: template/composer/agni_vc_addons.php:3646
+#: template/composer/agni_vc_addons.php:3694
+#: template/composer/agni_vc_addons.php:4474
+#: template/composer/agni_vc_addons.php:5357
+#: template/composer/agni_vc_addons.php:5420
+msgid "Select how the heading will be aligned"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2834
+msgid "Display Order"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2837
+msgid "Icon, Headings, Divide line, Addtional"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2838
+msgid "Headings, Divide line, Additional, Icon"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2839
+msgid "Additional, Headings, Divide line, Icon"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2840
+msgid "Divide line, Headings, Additional, Icon"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2841
+msgid "Icon, Divide line, Headings, Additional"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2848
+#: template/composer/agni_vc_addons.php:2893
+#: template/composer/agni_vc_addons.php:2961
+#: template/composer/agni_vc_addons.php:3046
+#: template/composer/agni_vc_addons.php:3198
+#: template/composer/agni_vc_addons.php:3339
+#: template/composer/agni_vc_addons.php:3539
+#: template/composer/agni_vc_addons.php:3891
+#: template/composer/agni_vc_addons.php:4022
+#: template/composer/agni_vc_addons.php:4121
+#: template/composer/agni_vc_addons.php:4222
+#: template/composer/agni_vc_addons.php:4284
+#: template/composer/agni_vc_addons.php:4440
+#: template/composer/agni_vc_addons.php:4514
+#: template/composer/agni_vc_addons.php:4656
+#: template/composer/agni_vc_addons.php:4703
+#: template/composer/agni_vc_addons.php:5011
+#: template/composer/agni_vc_addons.php:5467
+#: template/composer/agni_vc_addons.php:5561
+#: template/composer/agni_vc_addons.php:5587
+#: template/composer/agni_vc_addons.php:5663
+#: template/composer/agni_vc_addons.php:5793
+#: template/composer/agni_vc_addons.php:5940
+#: template/composer/agni_vc_addons.php:6096
+msgid "Extra Class"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2850
+#: template/composer/agni_vc_addons.php:2895
+#: template/composer/agni_vc_addons.php:2963
+#: template/composer/agni_vc_addons.php:3048
+#: template/composer/agni_vc_addons.php:3200
+#: template/composer/agni_vc_addons.php:3541
+#: template/composer/agni_vc_addons.php:3893
+#: template/composer/agni_vc_addons.php:4024
+#: template/composer/agni_vc_addons.php:4224
+#: template/composer/agni_vc_addons.php:4286
+#: template/composer/agni_vc_addons.php:4442
+#: template/composer/agni_vc_addons.php:4658
+#: template/composer/agni_vc_addons.php:4705
+#: template/composer/agni_vc_addons.php:5469
+#: template/composer/agni_vc_addons.php:5563
+#: template/composer/agni_vc_addons.php:5665
+#: template/composer/agni_vc_addons.php:5795
+#: template/composer/agni_vc_addons.php:5942
+#: template/composer/agni_vc_addons.php:6098
+msgid "extra class for the element!!.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2857
+msgid "Blockquote"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2862
+msgid "Blockquote text for the content"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2866
+msgid "Reverse Blockquote"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2868
+msgid "If you want a fullwidth container.. than check it!!.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2873
+#: template/composer/agni_vc_addons.php:2913
+#: template/custom-metabox-functions.php:92
+msgid "Quote Text"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2882
+msgid "set the background color for the blockquote!!.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2886
+msgid "Color"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2888
+msgid "set the color for the blockquote!!.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2903
+msgid "Dropcap"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2908
+msgid "Dropcap letter for your  paragraph text!!.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2920
+msgid "Dropcap style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2923
+#: template/composer/agni_vc_addons.php:3237
+#: template/composer/agni_vc_addons.php:3298
+#: template/composer/agni_vc_addons.php:3400
+#: template/composer/agni_vc_addons.php:3448
+#: template/composer/agni_vc_addons.php:3643
+#: template/composer/agni_vc_addons.php:3691
+#: template/composer/agni_vc_addons.php:4471
+#: template/composer/agni_vc_addons.php:4759
+#: template/composer/agni_vc_addons.php:5354
+#: template/composer/agni_vc_addons.php:5417
+msgid "Background"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2924
+#: template/composer/agni_vc_addons.php:3147
+#: template/composer/agni_vc_addons.php:3238
+#: template/composer/agni_vc_addons.php:3299
+#: template/composer/agni_vc_addons.php:3401
+#: template/composer/agni_vc_addons.php:3449
+#: template/composer/agni_vc_addons.php:3644
+#: template/composer/agni_vc_addons.php:3692
+#: template/composer/agni_vc_addons.php:3979
+#: template/composer/agni_vc_addons.php:4472
+#: template/composer/agni_vc_addons.php:4573
+#: template/composer/agni_vc_addons.php:4760
+#: template/composer/agni_vc_addons.php:5251
+#: template/composer/agni_vc_addons.php:5355
+#: template/composer/agni_vc_addons.php:5418
+#: template/custom-metabox-functions.php:584
+msgid "Bordered"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2931
+#: template/composer/agni_vc_addons.php:3261
+#: template/composer/agni_vc_addons.php:3410
+#: template/composer/agni_vc_addons.php:3653
+#: template/composer/agni_vc_addons.php:4479
+#: template/composer/agni_vc_addons.php:4580
+#: template/composer/agni_vc_addons.php:4780
+#: template/composer/agni_vc_addons.php:5259
+#: template/composer/agni_vc_addons.php:5379
+msgid "Radius"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2937
+msgid "Dropcap Background Color"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2939
+#: template/composer/agni_vc_addons.php:3271
+#: template/composer/agni_vc_addons.php:3317
+#: template/composer/agni_vc_addons.php:3420
+#: template/composer/agni_vc_addons.php:3467
+#: template/composer/agni_vc_addons.php:3663
+#: template/composer/agni_vc_addons.php:3710
+#: template/composer/agni_vc_addons.php:5389
+#: template/composer/agni_vc_addons.php:5436
+msgid "choose the dropdown background color."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2945
+msgid "Dropcap Border Color"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2947
+#: template/composer/agni_vc_addons.php:3279
+#: template/composer/agni_vc_addons.php:3325
+#: template/composer/agni_vc_addons.php:3428
+#: template/composer/agni_vc_addons.php:3475
+#: template/composer/agni_vc_addons.php:3671
+#: template/composer/agni_vc_addons.php:3718
+#: template/composer/agni_vc_addons.php:5397
+#: template/composer/agni_vc_addons.php:5444
+msgid "choose the dropdown border color."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2954
+msgid "Dropcap Text Color"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2971
+msgid "separator"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2976
+msgid "separator for your content"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2981
+msgid "separator Choice"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2985
+msgid "With text"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2987
+#: template/composer/agni_vc_addons.php:3015
+msgid "Select how the separator will be shown"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2992
+#: template/composer/agni_vc_addons.php:3105
+#: template/composer/agni_vc_addons.php:3380
+#: template/composer/agni_vc_addons.php:3623
+msgid "Text"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:2994
+msgid "Text inside the separator!!.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3000
+#: template/composer/agni_vc_addons.php:3245
+#: template/composer/agni_vc_addons.php:3873
+#: template/composer/agni_vc_addons.php:4992
+#: template/composer/agni_vc_addons.php:5363
+msgid "Width"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3002
+msgid ""
+"Width of the separator!!.. in percentage %.. <strong>for.eg. 50</strong>"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3008
+msgid "Border style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3021
+msgid "Separator alignment"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3033
+msgid "separator Color"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3035
+msgid "pick your color for separator!!.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3039
+msgid "separator Background Color"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3041
+msgid "pick your background color for separator!!.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3056
+msgid "Call to Action"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3060
+#: template/composer/agni_vc_addons.php:3212
+#: template/composer/agni_vc_addons.php:3353
+#: template/composer/agni_vc_addons.php:3553
+#: template/composer/agni_vc_addons.php:3905
+#: template/composer/agni_vc_addons.php:4036
+#: template/composer/agni_vc_addons.php:4135
+#: template/composer/agni_vc_addons.php:4454
+#: template/composer/agni_vc_addons.php:4529
+#: template/composer/agni_vc_addons.php:4670
+#: template/composer/agni_vc_addons.php:4717
+#: template/composer/agni_vc_addons.php:6169
+msgid "Content"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3061
+msgid "Simple call to action section"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3065
+#: template/composer/agni_vc_addons.php:4676
+msgid "Choose the style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3068
+#: template/composer/agni_vc_addons.php:3361
+#: template/composer/agni_vc_addons.php:3561
+#: template/composer/agni_vc_addons.php:4089
+#: template/composer/agni_vc_addons.php:4143
+#: template/composer/agni_vc_addons.php:4244
+#: template/composer/agni_vc_addons.php:4306
+msgid "Style 1(Default)"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3084
+msgid "Icon Top margin"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3091
+msgid "Icon Right margin"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3098
+msgid "Icon Bottom margin"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3116
+#: template/composer/agni_vc_addons.php:3939
+#: template/composer/agni_vc_addons.php:4535
+#: template/composer/agni_vc_addons.php:5229
+msgid "Button Value"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3119
+#: template/composer/agni_vc_addons.php:4538
+msgid "Value for the button."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3124
+#: template/composer/agni_vc_addons.php:3954
+#: template/composer/agni_vc_addons.php:4550
+msgid "Button URL"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3126
+#: template/composer/agni_vc_addons.php:4552
+msgid "URL for the button."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3132
+#: template/composer/agni_vc_addons.php:3963
+#: template/composer/agni_vc_addons.php:4558
+msgid "Target"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3135
+#: template/composer/agni_vc_addons.php:3966
+#: template/composer/agni_vc_addons.php:4561
+msgid "Same window"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3136
+#: template/composer/agni_vc_addons.php:3967
+#: template/composer/agni_vc_addons.php:4562
+msgid "New window"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3143
+#: template/composer/agni_vc_addons.php:3975
+#: template/composer/agni_vc_addons.php:4569
+#: template/composer/agni_vc_addons.php:5247
+msgid "button style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3149
+msgid "Select the button style."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3154
+#: template/composer/agni_vc_addons.php:4587
+#: template/composer/agni_vc_addons.php:5267
+msgid "Choose button type"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3158
+#: template/composer/agni_vc_addons.php:3997
+#: template/composer/agni_vc_addons.php:4591
+#: template/composer/agni_vc_addons.php:5271
+#: template/custom-metabox-functions.php:598
+#: template/custom-metabox-functions.php:756
+#: template/custom-metabox-functions.php:780
+#: template/custom-metabox-functions.php:992
+#: template/custom-metabox-functions.php:1228
+#: template/custom-metabox-functions.php:1252
+#: template/custom-metabox-functions.php:1523
+#: template/custom-metabox-functions.php:1557
+msgid "Primary"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3159
+#: template/composer/agni_vc_addons.php:3998
+#: template/composer/agni_vc_addons.php:4592
+#: template/composer/agni_vc_addons.php:5272
+#: template/custom-metabox-functions.php:599
+msgid "Accent"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3160
+#: template/composer/agni_vc_addons.php:3999
+#: template/composer/agni_vc_addons.php:4593
+#: template/composer/agni_vc_addons.php:5273
+#: template/custom-metabox-functions.php:600
+#: template/custom-metabox-functions.php:757
+#: template/custom-metabox-functions.php:781
+#: template/custom-metabox-functions.php:993
+#: template/custom-metabox-functions.php:1229
+#: template/custom-metabox-functions.php:1253
+#: template/custom-metabox-functions.php:1524
+#: template/custom-metabox-functions.php:1558
+msgid "White"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3162
+#: template/composer/agni_vc_addons.php:4002
+#: template/composer/agni_vc_addons.php:4595
+#: template/composer/agni_vc_addons.php:5275
+msgid "Select the button type..."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3168
+#: template/composer/agni_vc_addons.php:4601
+#: template/composer/agni_vc_addons.php:5282
+msgid "Choose the size of button"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3172
+#: template/composer/agni_vc_addons.php:4605
+#: template/composer/agni_vc_addons.php:5133
+#: template/composer/agni_vc_addons.php:5286
+#: template/custom-redux-options.php:2401
+msgid "Large"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3173
+#: template/composer/agni_vc_addons.php:4606
+#: template/composer/agni_vc_addons.php:5287
+msgid "Small"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3174
+#: template/composer/agni_vc_addons.php:4607
+#: template/composer/agni_vc_addons.php:5288
+msgid "Extra Small"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3175
+#: template/composer/agni_vc_addons.php:4608
+#: template/composer/agni_vc_addons.php:5289
+msgid "Block"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3177
+#: template/composer/agni_vc_addons.php:4610
+#: template/composer/agni_vc_addons.php:5291
+msgid "Select the size of the button.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3182
+msgid "Button Top margin"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3190
+msgid "Button Bottom margin"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3213
+msgid "Icon( Ionicons, Fontawesome )"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3226
+#: template/composer/agni_vc_addons.php:4330
+#: template/composer/agni_vc_addons.php:5342
+msgid "Size"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3228
+#: template/composer/agni_vc_addons.php:5344
+msgid ""
+"You can use px, em, %, etc. or enter just number and it will use pixels. for "
+"ex.24"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3233
+#: template/composer/agni_vc_addons.php:3396
+#: template/composer/agni_vc_addons.php:3639
+#: template/composer/agni_vc_addons.php:4467
+#: template/composer/agni_vc_addons.php:5350
+msgid "Icon style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3253
+#: template/composer/agni_vc_addons.php:5371
+#: template/composer/agni_vc_addons.php:5493
+msgid "Height"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3294
+#: template/composer/agni_vc_addons.php:3444
+#: template/composer/agni_vc_addons.php:3687
+#: template/composer/agni_vc_addons.php:5413
+msgid "Icon style on hover"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3307
+#: template/composer/agni_vc_addons.php:3457
+#: template/composer/agni_vc_addons.php:3700
+#: template/composer/agni_vc_addons.php:5426
+msgid "Radius on hover"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3315
+#: template/composer/agni_vc_addons.php:3465
+#: template/composer/agni_vc_addons.php:3708
+#: template/composer/agni_vc_addons.php:5434
+msgid "Background Color on hover"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3323
+#: template/composer/agni_vc_addons.php:3473
+#: template/composer/agni_vc_addons.php:3716
+#: template/composer/agni_vc_addons.php:5442
+msgid "Border Color on hover"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3332
+#: template/composer/agni_vc_addons.php:3482
+#: template/composer/agni_vc_addons.php:3725
+#: template/composer/agni_vc_addons.php:5451
+msgid "Icon Color on hover"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3334
+#: template/composer/agni_vc_addons.php:3484
+msgid "This will apply if the heading has divide line!"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3341
+#: template/composer/agni_vc_addons.php:4123
+#: template/composer/agni_vc_addons.php:4516
+#: template/composer/agni_vc_addons.php:5013
+#: template/composer/agni_vc_addons.php:5589
+msgid "extra class for the element."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3349
+msgid "Service Box"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3354
+#: template/composer/agni_vc_addons.php:3554
+msgid "various Service boxes"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3358
+#: template/composer/agni_vc_addons.php:3558
+msgid "Service Choice"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3364
+#: template/composer/agni_vc_addons.php:3564
+#: template/composer/agni_vc_addons.php:5541
+#: template/composer/agni_vc_addons.php:6325
+msgid "Style 4"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3365
+#: template/composer/agni_vc_addons.php:3565
+#: template/composer/agni_vc_addons.php:6326
+msgid "Style 5"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3366
+#: template/composer/agni_vc_addons.php:3566
+#: template/composer/agni_vc_addons.php:6327
+msgid "Style 6"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3369
+#: template/composer/agni_vc_addons.php:3569
+msgid "Select the service!!.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3375
+#: template/composer/agni_vc_addons.php:3618
+msgid "Choose Icon/Text"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3377
+#: template/composer/agni_vc_addons.php:3620
+msgid "it is will show as a first on every service element"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3490
+#: template/composer/agni_vc_addons.php:3733
+msgid "Enter the Letters"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3492
+#: template/composer/agni_vc_addons.php:3735
+msgid ""
+"Type your letter/number which you want to use. please don't use more the two "
+"letter, it may break the layout. "
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3499
+#: template/composer/agni_vc_addons.php:3502
+#: template/composer/agni_vc_addons.php:3742
+msgid "Service Title"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3507
+msgid "Service Description"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3520
+#: template/composer/agni_vc_addons.php:3532
+#: template/composer/agni_vc_addons.php:3766
+#: template/composer/agni_vc_addons.php:3778
+msgid "Select how the servicebox will be aligned"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3549
+msgid "Service Boxes"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3574
+msgid "Values"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3591
+#: template/composer/agni_vc_addons.php:3610
+#: template/composer/agni_vc_addons.php:3744
+msgid "Service"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3592
+#: template/composer/agni_vc_addons.php:3611
+#: template/composer/agni_vc_addons.php:3750
+#: template/composer/agni_vc_addons.php:4114
+msgid "Service description"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3785
+#: template/composer/agni_vc_addons.php:4916
+#: template/composer/agni_vc_addons.php:5768
+#: template/composer/agni_vc_addons.php:5915
+#: template/composer/agni_vc_addons.php:6051
+msgid "Display type"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3788
+#: template/composer/agni_vc_addons.php:4919
+#: template/composer/agni_vc_addons.php:5771
+#: template/composer/agni_vc_addons.php:5918
+#: template/composer/agni_vc_addons.php:6054
+#: template/custom-redux-options.php:1604
+msgid "Carousel"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3789
+#: template/composer/agni_vc_addons.php:4920
+#: template/composer/agni_vc_addons.php:5772
+#: template/composer/agni_vc_addons.php:5919
+#: template/composer/agni_vc_addons.php:6055
+#: template/composer/agni_vc_addons.php:6193
+#: template/composer/agni_vc_addons.php:6206
+#: template/composer/agni_vc_addons.php:6309
+msgid "Grid"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3791
+#: template/composer/agni_vc_addons.php:4922
+#: template/composer/agni_vc_addons.php:5774
+#: template/composer/agni_vc_addons.php:5921
+#: template/composer/agni_vc_addons.php:6057
+msgid ""
+"you can choose your desire type, it allows you to decide whether you need "
+"carousel or not. "
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3796
+#: template/composer/agni_vc_addons.php:4927
+#: template/composer/agni_vc_addons.php:5779
+#: template/composer/agni_vc_addons.php:5926
+#: template/composer/agni_vc_addons.php:6062
+#: template/composer/agni_vc_addons.php:6222
+msgid "Number of Columns"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3799
+#: template/composer/agni_vc_addons.php:3813
+#: template/composer/agni_vc_addons.php:6065
+#: template/composer/agni_vc_addons.php:6225
+msgid "1 columns"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3800
+#: template/composer/agni_vc_addons.php:3814
+#: template/composer/agni_vc_addons.php:4931
+#: template/composer/agni_vc_addons.php:5782
+#: template/composer/agni_vc_addons.php:5929
+#: template/composer/agni_vc_addons.php:6066
+#: template/composer/agni_vc_addons.php:6226
+msgid "2 columns"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3801
+#: template/composer/agni_vc_addons.php:3815
+#: template/composer/agni_vc_addons.php:4932
+#: template/composer/agni_vc_addons.php:5783
+#: template/composer/agni_vc_addons.php:5930
+#: template/composer/agni_vc_addons.php:6067
+#: template/composer/agni_vc_addons.php:6227
+msgid "3 columns"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3802
+#: template/composer/agni_vc_addons.php:3816
+#: template/composer/agni_vc_addons.php:4933
+#: template/composer/agni_vc_addons.php:5784
+#: template/composer/agni_vc_addons.php:5931
+#: template/composer/agni_vc_addons.php:6228
+msgid "4 columns"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3804
+#: template/composer/agni_vc_addons.php:4937
+#: template/composer/agni_vc_addons.php:5786
+#: template/composer/agni_vc_addons.php:5933
+#: template/composer/agni_vc_addons.php:6069
+#: template/composer/agni_vc_addons.php:6231
+msgid ""
+"Choose the column on desktop screen. it will adjust the columns count on "
+"responsive screens automatically."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3810
+msgid "Items per Columns"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3818
+msgid "Choose the no. of items to show vertically on each column."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3825
+#: template/composer/agni_vc_addons.php:4944
+#: template/composer/agni_vc_addons.php:5619
+#: template/composer/agni_vc_addons.php:5801
+#: template/composer/agni_vc_addons.php:5948
+#: template/composer/agni_vc_addons.php:6103
+#: template/composer/agni_vc_addons.php:6478
+msgid "Autoplay"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3828
+#: template/composer/agni_vc_addons.php:3837
+#: template/composer/agni_vc_addons.php:3847
+#: template/composer/agni_vc_addons.php:3857
+#: template/composer/agni_vc_addons.php:3867
+#: template/composer/agni_vc_addons.php:4947
+#: template/composer/agni_vc_addons.php:4956
+#: template/composer/agni_vc_addons.php:4966
+#: template/composer/agni_vc_addons.php:4976
+#: template/composer/agni_vc_addons.php:4986
+#: template/composer/agni_vc_addons.php:5804
+#: template/composer/agni_vc_addons.php:5813
+#: template/composer/agni_vc_addons.php:5823
+#: template/composer/agni_vc_addons.php:5833
+#: template/composer/agni_vc_addons.php:5843
+#: template/composer/agni_vc_addons.php:5951
+#: template/composer/agni_vc_addons.php:5960
+#: template/composer/agni_vc_addons.php:5970
+#: template/composer/agni_vc_addons.php:5980
+#: template/composer/agni_vc_addons.php:5990
+#: template/composer/agni_vc_addons.php:6106
+#: template/composer/agni_vc_addons.php:6115
+#: template/composer/agni_vc_addons.php:6125
+#: template/composer/agni_vc_addons.php:6135
+#: template/composer/agni_vc_addons.php:6145
+#: template/composer/agni_vc_addons.php:6155
+#: template/composer/agni_vc_addons.php:6481
+#: template/composer/agni_vc_addons.php:6490
+#: template/composer/agni_vc_addons.php:6500
+#: template/composer/agni_vc_addons.php:6510
+#: template/composer/agni_vc_addons.php:6520
+#: template/composer/agni_vc_addons.php:6530
+msgid "carousel Options"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3834
+#: template/composer/agni_vc_addons.php:4953
+#: template/composer/agni_vc_addons.php:5627
+#: template/composer/agni_vc_addons.php:5810
+#: template/composer/agni_vc_addons.php:5957
+#: template/composer/agni_vc_addons.php:6112
+#: template/composer/agni_vc_addons.php:6487
+msgid "Timeout duration"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3836
+#: template/composer/agni_vc_addons.php:4955
+#: template/composer/agni_vc_addons.php:5629
+#: template/composer/agni_vc_addons.php:5812
+#: template/composer/agni_vc_addons.php:5959
+#: template/composer/agni_vc_addons.php:6114
+#: template/composer/agni_vc_addons.php:6489
+msgid "Enter the duration of each slide Transition"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3844
+#: template/composer/agni_vc_addons.php:4963
+#: template/composer/agni_vc_addons.php:5636
+#: template/composer/agni_vc_addons.php:5820
+#: template/composer/agni_vc_addons.php:5967
+#: template/composer/agni_vc_addons.php:6122
+#: template/composer/agni_vc_addons.php:6497
+msgid "Pause on Hover"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3854
+#: template/composer/agni_vc_addons.php:4973
+#: template/composer/agni_vc_addons.php:5084
+#: template/composer/agni_vc_addons.php:5181
+#: template/composer/agni_vc_addons.php:5654
+#: template/composer/agni_vc_addons.php:5830
+#: template/composer/agni_vc_addons.php:5977
+#: template/composer/agni_vc_addons.php:6142
+#: template/composer/agni_vc_addons.php:6517
+#: template/custom-redux-options.php:2370
+msgid "Loop"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3864
+#: template/composer/agni_vc_addons.php:4983
+#: template/composer/agni_vc_addons.php:5840
+#: template/composer/agni_vc_addons.php:5987
+#: template/composer/agni_vc_addons.php:6152
+#: template/composer/agni_vc_addons.php:6527
+#: template/custom-redux-options.php:2248
+#: template/custom-redux-options.php:2294
+#: template/custom-redux-options.php:2340
+#: template/custom-redux-options.php:2462
+msgid "Pagination"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3876
+#: template/composer/agni_vc_addons.php:3885
+#: template/composer/agni_vc_addons.php:4995
+#: template/composer/agni_vc_addons.php:5004
+msgid "Responsive Options"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3877
+msgid "Select column width."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3883
+#: template/composer/agni_vc_addons.php:5002
+msgid "Responsiveness"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3886
+#: template/composer/agni_vc_addons.php:5005
+msgid ""
+"Adjust column for different screen sizes. Control width, offset and "
+"visibility settings."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3901
+msgid "Features"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3906
+msgid "various features boxes"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3910
+#: template/composer/agni_vc_addons.php:4713
+#: template/composer/agni_vc_addons.php:4722
+#: template/custom-metabox-functions.php:453
+msgid "Image"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3913
+#: template/composer/agni_vc_addons.php:4725
+msgid "Select image from media library."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3917
+#: template/composer/agni_vc_addons.php:4257
+#: template/custom-metabox-functions.php:527
+#: template/custom-metabox-functions.php:726
+#: template/custom-metabox-functions.php:964
+#: template/custom-metabox-functions.php:1198
+#: template/custom-metabox-functions.php:1466
+#: template/widgets/agni_widget_instagram_feed.php:89
+#: template/woocommerce/class-wc-widget-cart.php:32
+msgid "Title"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3924
+msgid "Ttile URL"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3926
+msgid "URL for the title, leave it empty for Non linked title."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3931
+#: template/custom-metabox-functions.php:541
+#: template/custom-metabox-functions.php:897
+#: template/custom-metabox-functions.php:1133
+#: template/custom-metabox-functions.php:1375
+#: template/custom-metabox-functions.php:1623
+msgid "Title Color"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3933
+msgid "set the color for title"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3941
+#: template/composer/agni_vc_addons.php:5232
+msgid "Value for the button!!.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3957
+msgid "URL for the button!!.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3981
+#: template/composer/agni_vc_addons.php:4575
+#: template/composer/agni_vc_addons.php:5253
+msgid "Select the button style..."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3986
+msgid "Button Radius"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:3993
+#: template/custom-metabox-functions.php:579
+msgid "Button type"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4008
+msgid "Show content always"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4010
+msgid "Show the content always, no need for hover"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4017
+msgid "set the background color/opacity for the content background"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4032
+msgid "Pricing Table"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4037
+msgid "Pricing column for many purpose"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4042
+msgid "Heading of the table"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4044
+msgid "title or heading of the pricing table!!.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4048
+msgid "Currency Symbol"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4050
+msgid "currency value of the pricing table's price.. for.eg $"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4054
+msgid "Charge"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4056
+msgid "Price or charge for the subscribers. for.eg 99"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4060
+msgid "Interval"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4062
+msgid "title or heading of the pricing table. for.eg mo."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4066
+msgid "Button value"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4068
+msgid "value of the pricing button.. for.eg Sign Up"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4072
+msgid "Button Link"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4074
+msgid "link of the pricing button.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4079
+msgid "Featured Column"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4081
+msgid "Is this column featured.. then check it"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4086
+msgid "Featured Column Style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4092
+msgid "Select the style to display the featured pricing table!!.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4099
+msgid "Special icon"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4102
+msgid ""
+"Select the icon to show over the heading to speicify the featured column "
+"pricing table(<small><strong>http://ionicons.com/, http://fortawesome.github."
+"io/Font-Awesome/icons/, http://themes-pixeden.com/font-demos/7-stroke/index."
+"html, http://themes-pixeden.com/font-demos/7-filled/index.html supported..</"
+"strong></small>)"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4110
+msgid "select the background color for this pricing table"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4131
+msgid "Milestone"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4136
+msgid "Milestone content"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4140
+msgid "Milestone Style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4157
+msgid "Icon Font Size"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4165
+msgid "Number count"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4167
+msgid "Number count for the milestone..  for.eg <strong>99</strong>"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4171
+msgid "Number count Font Size"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4178
+msgid "Mile text"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4180
+msgid "Number count for the milestone.. for.eg <strong>coffee cups</strong>"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4185
+msgid "White Text"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4187
+msgid ""
+"This option makes your content white.. it may helpful for dark backgrounds"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4204
+msgid "Count Animation"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4206
+msgid "if you want the count animation enable it."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4214
+#: template/composer/agni_vc_addons.php:4434
+msgid ""
+"You can use \"simply number\" or \"%\" to denote the offset. for ex. 90%. It "
+"will trigger the counter only when the element reach 90% from the top."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4232
+msgid "Progress Bar"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4236
+#: template/composer/agni_vc_addons.php:4298
+#: template/composer/agni_vc_addons.php:5487
+#: template/composer/agni_vc_addons.php:5575
+msgid "Graphic"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4237
+msgid "Progress bar for your site!!.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4241
+msgid "Progress bar Style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4251
+msgid "Percentage"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4253
+msgid "Progress bar completion percentage for eg. 80"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4259
+msgid "Progress bar title"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4263
+#: template/composer/agni_vc_addons.php:4338
+msgid "Track Color"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4265
+#: template/composer/agni_vc_addons.php:4271
+msgid "select the progress bar color"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4269
+#: template/composer/agni_vc_addons.php:4345
+msgid "Bar Color"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4278
+msgid ""
+"You can use \"simply number\" or \"%\" to denote the offset. for ex. 90%. It "
+"will trigger the progressbar only when the element reach 90% from the top."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4294
+msgid "Circle Bar"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4299
+msgid "Circle bar for your site!!.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4303
+msgid "Circle bar Style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4309
+msgid "choose Style 2 to show icon instead of percentage"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4322
+msgid "Percentage to Fill"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4324
+msgid "Circle bar completion percentage"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4332
+msgid "size of circle bar..  for.eg 160"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4340
+msgid ""
+"select the track color for the circle bar. if you don't want to use color "
+"just leave it blank. "
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4347
+msgid ""
+"select the bar color for the circle bar. if you don't want  to use color "
+"just leave it blank. "
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4351
+msgid "Scale Color"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4353
+msgid ""
+"select the scale color for the circle bar. if you don't want  to use color "
+"just leave it blank."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4358
+msgid "Scale Length"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4360
+msgid "scale length for circle bar.  for.eg 15"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4365
+msgid "Line Width"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4367
+msgid "Line length for circle bar.  for.eg 4"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4372
+msgid "Line Cap"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4374
+msgid "butt, round and square.. are the options for line cap"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4390
+msgid "Choose Animation"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4427
+msgid "Select the animation which you want!!.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4450
+msgid "List"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4455
+#: template/composer/agni_vc_addons.php:4671
+msgid "List with icons ( Ionicons, Fontawesome )"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4463
+msgid ""
+"<<small>Select the icon which you want <strong>http://ionicons.com/, http://"
+"fortawesome.github.io/Font-Awesome/icons/, http://themes-pixeden.com/font-"
+"demos/7-stroke/index.html, http://themes-pixeden.com/font-demos/7-filled/"
+"index.html supported!!..</strong></small>"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4486
+msgid "Icon Background Color"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4488
+#: template/composer/agni_vc_addons.php:4495
+#: template/composer/agni_vc_addons.php:4503
+#: template/composer/agni_vc_addons.php:5406
+msgid "This will apply if the heading has divide line."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4493
+msgid "Icon Border Color"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4501
+msgid "Icon Text Color"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4508
+msgid "List items"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4525
+#: template/composer/agni_vc_addons.php:5221
+msgid "Button"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4530
+msgid "Various Button for eg. success, block"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4572
+#: template/composer/agni_vc_addons.php:5250
+msgid "Background(Default)"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4614
+#: template/composer/agni_vc_addons.php:5296
+msgid "Button Alignment"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4617
+#: template/composer/agni_vc_addons.php:4746
+#: template/composer/agni_vc_addons.php:5299
+#: template/composer/agni_vc_addons.php:6085
+#: template/custom-metabox-functions.php:626
+#: template/custom-metabox-functions.php:791
+#: template/custom-metabox-functions.php:1003
+#: template/custom-metabox-functions.php:1263
+#: template/custom-metabox-functions.php:1572
+#: template/custom-redux-options.php:1859
+msgid "Left"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4618
+#: template/composer/agni_vc_addons.php:4748
+#: template/composer/agni_vc_addons.php:5300
+#: template/composer/agni_vc_addons.php:6086
+#: template/custom-metabox-functions.php:627
+#: template/custom-metabox-functions.php:792
+#: template/custom-metabox-functions.php:1004
+#: template/custom-metabox-functions.php:1264
+#: template/custom-metabox-functions.php:1573
+#: template/custom-redux-options.php:1860
+msgid "Center"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4621
+#: template/composer/agni_vc_addons.php:5303
+msgid "Select the Alignment of the button.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4666
+msgid "Alerts"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4679
+msgid "Success"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4680
+msgid "Danger"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4681
+msgid "Warning"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4682
+msgid "Info"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4684
+msgid "Choose the releavant alert message type. "
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4688
+msgid "Dismissable alert"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4690
+msgid "if you want the close button. just check this."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4696
+msgid "Alert Message"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4718
+msgid "Simple image with CSS animation"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4729
+#: template/composer/agni_vc_addons.php:4885
+msgid "Image size"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4732
+msgid ""
+"Enter image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by theme). Alternatively enter size in pixels (Example: "
+"200x100 (Width x Height))."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4736
+msgid "Add caption?"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4738
+msgid "Add image caption."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4743
+msgid "Image alignment"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4750
+msgid "Select image alignment."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4755
+msgid "Image style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4768
+msgid "choose the background color for image."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4775
+msgid "choose the border color for image."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4786
+msgid "On click action"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4790
+msgid "Attachment Image"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4791
+#: template/composer/agni_vc_addons.php:4900
+msgid "Lightbox"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4792
+msgid "Custom link"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4795
+msgid "Select action for click action."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4800
+msgid "Image link"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4802
+msgid ""
+"Enter URL if you want this image to have a link (Note: parameters like "
+"\"mailto:\" are also accepted)."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4833
+msgid "Parallax"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4841
+msgid "Parallax Start value"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4842
+msgid ""
+"Enter your starting value of parallax for ex. transform:translateY(0px);"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4850
+msgid "Parallax End value"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4851
+msgid "Enter your end value of parallax for ex. transform:translateY(-100px);"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4859
+msgid "Extra class name"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4861
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4869
+msgid "Gallery"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4873
+#: template/composer/agni_vc_addons.php:5025
+#: template/composer/agni_vc_addons.php:5601
+msgid "Media"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4874
+msgid "group of image with lightbox gallery."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4879
+#: template/composer/agni_vc_addons.php:5606
+msgid "Select Image"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4881
+msgid "Select the image"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4887
+msgid "choose image size"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4889
+msgid "thumbnail"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4890
+msgid "medium"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4891
+msgid "large"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4892
+msgid "Full"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4893
+msgid "Grid Thumbnail(640 width)"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4894
+msgid "Standard Thumbnail(1080 width)"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4902
+msgid "if you want the lightbox. just enable this!."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4907
+msgid "No Gutter"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4909
+msgid "if you don't want the gutter. just enable this!."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4930
+msgid "1 column"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4934
+#: template/composer/agni_vc_addons.php:6229
+msgid "5 columns"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4935
+msgid "6 columns"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:4996
+msgid "Select column width for every individual images."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5021
+msgid "Video"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5026
+msgid "Youtube, Vimeo, etc.. any embedded video"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5030
+msgid "Choose Video Type"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5033
+msgid "Youtube Video"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5034
+msgid "Self Hosted Video"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5035
+msgid "Lightbox Video"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5036
+msgid "Embed Video"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5038
+msgid ""
+"if you want ordinary youtube or vimeo video container. then choose Default. "
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5044
+#: template/composer/agni_vc_addons.php:5211
+msgid "URL"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5046
+msgid "Youtube URL of the Video"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5051
+msgid "Fallback Image"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5054
+msgid ""
+"This player will not work on mobile device. so you set the fallback image "
+"here"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5059
+#: template/custom-metabox-functions.php:494
+#: template/custom-metabox-functions.php:921
+#: template/custom-metabox-functions.php:1155
+#: template/custom-metabox-functions.php:1399
+#: template/custom-metabox-functions.php:1647
+msgid "Overlay Opacity"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5062
+msgid "Set your opacity amount range from 0 to 1"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5067
+msgid "Video Height"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5069
+msgid "height of video container!.. for eg.450"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5075
+#: template/composer/agni_vc_addons.php:5172
+#: template/custom-redux-options.php:2363
+msgid "Auto Play"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5077
+#: template/composer/agni_vc_addons.php:5174
+msgid "video starts automatically.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5086
+#: template/composer/agni_vc_addons.php:5183
+msgid "It repeat the video once completed!."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5093
+msgid "Volume level"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5095
+msgid "Set a default volume level of the video..for eg. 50"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5101
+#: template/composer/agni_vc_addons.php:5190
+#: template/custom-redux-options.php:2377
+msgid "Mute"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5103
+msgid "Muted video"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5111
+msgid "Start at"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5114
+msgid "Starting from N second.. for eg. 20 "
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5119
+msgid "Stop at"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5122
+msgid "Starting from N second.. for eg. 30 "
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5128
+msgid "Choose the quality"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5131
+msgid "Default(small)"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5132
+#: template/custom-redux-options.php:2401
+msgid "Medium"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5134
+#: template/custom-redux-options.php:2401
+msgid "720p"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5135
+#: template/custom-redux-options.php:2401
+msgid "1080p"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5136
+msgid "High"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5138
+msgid "Choose the releavant resolution quality!!.. "
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5144
+#: template/custom-metabox-functions.php:1057
+#: template/custom-metabox-functions.php:1078
+msgid "Video URL"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5146
+msgid ""
+"To find media url go to \"Media\" menu at left side panel and click on "
+"your(desire) media file. now you can find url at right side panel. copy/"
+"paste the url here"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5151
+msgid "Poster Image"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5154
+msgid "This poster will be shown before video get started."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5160
+msgid "Choose the player"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5163
+msgid "Default(HTML 5 player)"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5164
+msgid "WordPress player"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5166
+msgid "Choose the style which you would like to have. "
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5192
+msgid "it will Mute the video(volume 0)"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5199
+msgid "Preload"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5202
+msgid "metadata"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5203
+msgid "none"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5204
+msgid "auto"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5213
+msgid "Youtube/Vimeo URL of the Video"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5218
+msgid "Link Style to open Lightbox"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5460
+msgid "Video embed iframe"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5462
+msgid "Your embeded URL to display a video.. all video source supported"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5473
+#: template/composer/agni_vc_addons.php:5555
+#: template/composer/agni_vc_addons.php:6380
+#: template/custom-redux-options.php:1848
+msgid "ID"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5475
+msgid "this id is mandatory to use more than one youtube video on your page."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5483
+msgid "Gmap"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5488
+msgid "Google Map"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5495
+msgid "Height of the map!!.. don't include px"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5501
+msgid "Map Marker"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5504
+msgid "Select image from media library. icon size should be 48x48"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5508
+msgid "Google Map Latitude"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5510
+msgid "enter your latitude value <strong>for ex. 10.010509</strong> "
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5514
+msgid "Google Map Longitude"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5519
+msgid "Address Line 1"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5524
+msgid "Address Line 2"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5529
+msgid "Address Line 3"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5535
+msgid "Choose Map Style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5547
+msgid "Map Accent Color"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5549
+msgid "choose the color for water in the map."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5557
+msgid "ID is mandatory to show more than one map."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5571
+msgid "Countdown"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5576
+msgid "counter for Comingsoon/any page."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5580
+#: template/composer/agni_vc_addons.php:5739
+#: template/composer/agni_vc_addons.php:5886
+#: template/composer/agni_vc_addons.php:6034
+#: template/composer/agni_vc_addons.php:6436
+#: template/composer/agni_vc_addons.php:6657
+#: template/custom-redux-options.php:1948
+msgid "Date"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5582
+msgid "you can type your deadline. for ex. 20 January 2016 10:45:00"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5597
+msgid "Custom Slider"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5602
+msgid "Custom slider for making simple gallery and slider"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5608
+msgid "Select the image for slider"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5613
+msgid "Show Caption"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5622
+#: template/composer/agni_vc_addons.php:5630
+#: template/composer/agni_vc_addons.php:5639
+#: template/composer/agni_vc_addons.php:5648
+#: template/composer/agni_vc_addons.php:5657
+msgid "Slider Options"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5645
+#: template/composer/agni_vc_addons.php:6132
+#: template/composer/agni_vc_addons.php:6507
+msgid "Slide Speed"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5647
+#: template/composer/agni_vc_addons.php:6134
+#: template/composer/agni_vc_addons.php:6509
+msgid "Enter the speed of each slide Transition"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5706
+msgid "Team"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5710
+#: template/composer/agni_vc_addons.php:5856
+#: template/composer/agni_vc_addons.php:6004
+msgid "carousel"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5711
+msgid "display team by getting the team member post type"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5715
+#: template/composer/agni_vc_addons.php:6010
+msgid "Number of members to display"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5717
+#: template/composer/agni_vc_addons.php:5864
+#: template/composer/agni_vc_addons.php:6012
+#: template/composer/agni_vc_addons.php:6412
+#: template/composer/agni_vc_addons.php:6634
+msgid ""
+"Mention the number of posts that you want to display!!.. -1 for infinite "
+"posts"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5721
+#: template/composer/agni_vc_addons.php:5868
+#: template/composer/agni_vc_addons.php:6016
+#: template/composer/agni_vc_addons.php:6418
+#: template/composer/agni_vc_addons.php:6639
+msgid "Order"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5724
+#: template/composer/agni_vc_addons.php:5871
+#: template/composer/agni_vc_addons.php:6019
+#: template/composer/agni_vc_addons.php:6365
+#: template/composer/agni_vc_addons.php:6421
+#: template/composer/agni_vc_addons.php:6642
+msgid "Descending "
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5725
+#: template/composer/agni_vc_addons.php:5872
+#: template/composer/agni_vc_addons.php:6020
+#: template/composer/agni_vc_addons.php:6364
+#: template/composer/agni_vc_addons.php:6422
+#: template/composer/agni_vc_addons.php:6643
+#: template/custom-redux-options.php:1833
+#: template/custom-redux-options.php:1933
+msgid "Ascending"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5731
+#: template/composer/agni_vc_addons.php:5878
+#: template/composer/agni_vc_addons.php:6026
+#: template/composer/agni_vc_addons.php:6428
+#: template/composer/agni_vc_addons.php:6649
+msgid "Order by"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5735
+#: template/composer/agni_vc_addons.php:5882
+#: template/composer/agni_vc_addons.php:6030
+#: template/composer/agni_vc_addons.php:6432
+#: template/composer/agni_vc_addons.php:6653
+#: template/custom-redux-options.php:1944
+msgid "Post ID"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5736
+#: template/composer/agni_vc_addons.php:5883
+#: template/composer/agni_vc_addons.php:6031
+#: template/composer/agni_vc_addons.php:6433
+#: template/composer/agni_vc_addons.php:6654
+msgid "Post author"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5737
+#: template/composer/agni_vc_addons.php:5884
+#: template/composer/agni_vc_addons.php:6032
+#: template/composer/agni_vc_addons.php:6434
+#: template/composer/agni_vc_addons.php:6655
+msgid "Post title"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5738
+#: template/composer/agni_vc_addons.php:5885
+#: template/composer/agni_vc_addons.php:6033
+#: template/composer/agni_vc_addons.php:6435
+#: template/composer/agni_vc_addons.php:6656
+msgid "Post slug"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5740
+#: template/composer/agni_vc_addons.php:5887
+#: template/composer/agni_vc_addons.php:6035
+#: template/composer/agni_vc_addons.php:6437
+#: template/composer/agni_vc_addons.php:6658
+msgid "Last modified date"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5741
+#: template/composer/agni_vc_addons.php:5888
+#: template/composer/agni_vc_addons.php:6036
+#: template/composer/agni_vc_addons.php:6438
+#: template/composer/agni_vc_addons.php:6659
+#: template/custom-redux-options.php:1950
+msgid "Random"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5742
+#: template/composer/agni_vc_addons.php:5889
+#: template/composer/agni_vc_addons.php:6037
+#: template/composer/agni_vc_addons.php:6439
+#: template/composer/agni_vc_addons.php:6660
+msgid "Comments number"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5743
+#: template/composer/agni_vc_addons.php:5890
+#: template/composer/agni_vc_addons.php:6038
+#: template/composer/agni_vc_addons.php:6440
+#: template/composer/agni_vc_addons.php:6661
+msgid "Menu order"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5749
+msgid "Team Categories"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5752
+msgid "Categories of Team"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5757
+#: template/composer/agni_vc_addons.php:5904
+msgid "Style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5763
+#: template/composer/agni_vc_addons.php:5910
+msgid "Various Team display style.. "
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5852
+#: template/custom-metabox-functions.php:1767
+msgid "Clients"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5857
+msgid "display clients by getting the clients post type"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5862
+msgid "Number of clients to display"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5896
+msgid "Client Categories"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:5899
+msgid "Categories of Clients"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6000
+#: template/custom-metabox-functions.php:1801
+msgid "Testimonials"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6005
+msgid "display testimonials by getting the testimonials post type"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6044
+msgid "Testimonial Categories"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6047
+msgid "Categories of Testimonials"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6075
+msgid "Circle Avatar"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6089
+msgid "Choose your testimonials alignment"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6165
+msgid "Posts, Portfolio"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6170
+msgid "Choose the post & portfolio post type to show the loop!!"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6175
+msgid "Select the post type"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6178
+msgid "Posts"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6179
+msgid "Portfolio"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6180
+msgid "Carousel Posts"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6181
+msgid "Carousel Portfolio"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6183
+msgid "Display the post from the various post types.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6189
+msgid "Blog layout Style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6192
+msgid "Standard"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6194
+msgid "First Starndard rest Grid"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6195
+#: template/composer/agni_vc_addons.php:6207
+msgid "Modern"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6197
+#: template/composer/agni_vc_addons.php:6209
+msgid "Various layout style for blog.. "
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6203
+msgid "Blog Carousel layout Style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6215
+msgid "Fullwidth Carousel"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6237
+msgid "Blog Grid layout"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6240
+msgid "FitRows(Default Grid)"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6241
+#: template/composer/agni_vc_addons.php:6310
+msgid "Masonry"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6243
+msgid "Various grid style for blog.. "
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6250
+#: template/custom-redux-options.php:1545
+msgid "Blog Sidebar"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6253
+#: template/custom-metabox-functions.php:58
+msgid "No Sidebar"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6254
+#: template/custom-metabox-functions.php:59
+msgid "Right Sidebar"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6255
+#: template/custom-metabox-functions.php:60
+msgid "Left Sidebar"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6257
+msgid "Sidebar for blog.. "
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6263
+msgid "Categories"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6266
+msgid "Categories of post post type. ignore this to show all"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6272
+#: template/composer/agni_vc_addons.php:6306
+msgid "Portfolio layout Style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6275
+msgid "1 Column"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6276
+#: template/composer/agni_vc_addons.php:6621
+msgid "2 Column"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6277
+#: template/composer/agni_vc_addons.php:6622
+msgid "3 Column"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6278
+#: template/composer/agni_vc_addons.php:6623
+msgid "4 Column"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6279
+msgid "5 Column"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6281
+#: template/composer/agni_vc_addons.php:6312
+msgid "Various layout style for portfolio.. "
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6288
+msgid "Fullwidth Portfolio"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6291
+msgid "Kindly set your row as fullwidth to get the fullwidth portfolio. "
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6297
+msgid "Portfolio gutter"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6300
+msgid "if you need a space between items check this box. "
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6319
+#: template/custom-redux-options.php:1788
+msgid "Portfolio Hover style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6328
+msgid "Style 7"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6329
+msgid "Style 8"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6330
+msgid "Style 9"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6331
+msgid "Style 10"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6332
+msgid "Style 11"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6333
+msgid "Style 12"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6336
+msgid "Style 15"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6337
+msgid "Style 16"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6339
+msgid "Various hover style for portfolio.. "
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6346
+#: template/custom-redux-options.php:1814
+msgid "Portfolio Bottom Caption"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6354
+msgid "Portfolio Filter"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6361
+#: template/custom-redux-options.php:1830
+msgid "Portfolio Filter Order"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6372
+msgid "Portfolio Filter Order by"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6376
+#: template/custom-metabox-functions.php:1685
+#: template/custom-redux-options.php:1844
+#: woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6377
+#: template/custom-redux-options.php:1845
+msgid "Slug"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6378
+#: template/custom-redux-options.php:1846
+msgid "Term Group"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6379
+#: template/custom-redux-options.php:1847
+msgid "Term ID"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6381
+#: template/custom-metabox-functions.php:549
+#: template/custom-redux-options.php:1849
+msgid "Description"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6388
+msgid "Portfolio Filter alignment"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6395
+msgid "Select the filter style to be aligned"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6401
+msgid "Portfolio Categories"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6404
+msgid "Categories of portfolio post type"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6410
+#: template/custom-redux-options.php:1630
+msgid "Number of Posts to display"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6447
+msgid "Pagination style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6449
+msgid "Choose your pagination style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6451
+msgid "No pagination"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6452
+msgid "Number"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6453
+msgid "Infinite"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6454
+msgid "Infinite with Load More"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6462
+msgid "Posts to exclude"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6464
+msgid "Mention the posts id to excludes for.eg.401"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6469
+msgid "Ignore Sticky"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6471
+msgid "Just check this if you want to ignore sticky posts.."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6544
+msgid "Animation style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6546
+msgid "Choose your animation style"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6548
+#: template/custom-redux-options.php:1887
+msgid "fadeIn"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6549
+#: template/custom-redux-options.php:1888
+msgid "fadeInDown"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6550
+#: template/custom-redux-options.php:1889
+msgid "fadeInUp"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6551
+#: template/custom-redux-options.php:1890
+msgid "fadeInRight"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6552
+#: template/custom-redux-options.php:1891
+msgid "fadeInLeft"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6553
+#: template/custom-redux-options.php:1892
+msgid "flipInX"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6554
+#: template/custom-redux-options.php:1893
+msgid "flipInY"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6555
+#: template/custom-redux-options.php:1894
+msgid "zoomIn"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6565
+msgid ""
+"Animation will be triggered only when portfolio reaches particular "
+"percentage on viewport. for eg. 90"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6585
+msgid "WooCommerce Products"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6589
+msgid "WooCommerce"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6590
+msgid "Setup your product to display."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6594
+msgid "Product Type"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6597
+msgid "All"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6598
+msgid "Sale"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6599
+msgid "Featured"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6600
+msgid "Best Selling"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6601
+msgid "Top Rated"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6604
+msgid "Please select the type of products you would like to display."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6609
+msgid "Product Categories"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6614
+msgid "choose your desired Categories"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6618
+msgid "Number Of Columns"
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6626
+msgid "Please select the number of columns you would like to display."
+msgstr ""
+
+#: template/composer/agni_vc_addons.php:6631
+msgid "Number of Products to display"
+msgstr ""
+
+#: template/composer/vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr ""
+
+#: template/composer/vc_templates/vc_accordion_tab.php:17
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: template/composer/vc_templates/vc_tab.php:6
+msgid "Empty tab. Edit page to add content here."
+msgstr ""
+
+#: template/custom-demo-import-functions.php:40
+msgid "STEPS"
+msgstr ""
+
+#: template/custom-demo-import-functions.php:40
+msgid "1. Click \"All content\" to import all contents."
+msgstr ""
+
+#: template/custom-demo-import-functions.php:40
+msgid ""
+"2. Then pick anyone from the rest of the demos(Demo 1 - Demo 16) to import "
+"the corresponding demo settings."
+msgstr ""
+
+#: template/custom-demo-import-functions.php:42
+msgid ""
+"This process may take serveral minutes to complete. Please be patience :) If "
+"the process bar stops working, refresh the page and click \"Import Demo\" "
+"again."
+msgstr ""
+
+#: template/custom-metabox-functions.php:39
+msgid "Post Options"
+msgstr ""
+
+#: template/custom-metabox-functions.php:47
+#: template/custom-metabox-functions.php:327
+#: template/custom-metabox-functions.php:442
+#: template/custom-redux-options.php:1761
+#: template/custom-redux-options.php:2084
+msgid "Fullwidth"
+msgstr ""
+
+#: template/custom-metabox-functions.php:48
+msgid "It allows you to use the fullwidth of the screen."
+msgstr ""
+
+#: template/custom-metabox-functions.php:54 template/theme-functions.php:49
+msgid "Sidebar"
+msgstr ""
+
+#: template/custom-metabox-functions.php:84
+msgid "Quote Post Options"
+msgstr ""
+
+#: template/custom-metabox-functions.php:97
+msgid "Quote author"
+msgstr ""
+
+#: template/custom-metabox-functions.php:104
+msgid "Link Post Options"
+msgstr ""
+
+#: template/custom-metabox-functions.php:112
+msgid "Link"
+msgstr ""
+
+#: template/custom-metabox-functions.php:113
+msgid "Type URL to display into the post"
+msgstr ""
+
+#: template/custom-metabox-functions.php:120
+msgid "Audio Post Options"
+msgstr ""
+
+#: template/custom-metabox-functions.php:128
+msgid "Self Hosted Audio Link"
+msgstr ""
+
+#: template/custom-metabox-functions.php:135
+msgid "Video Post Options"
+msgstr ""
+
+#: template/custom-metabox-functions.php:143
+msgid "Self Hosted Video Link"
+msgstr ""
+
+#: template/custom-metabox-functions.php:144
+msgid "Fill one of any video source info!!.."
+msgstr ""
+
+#: template/custom-metabox-functions.php:149
+msgid "Video Poster"
+msgstr ""
+
+#: template/custom-metabox-functions.php:150
+msgid "Only applicable for self hosted video"
+msgstr ""
+
+#: template/custom-metabox-functions.php:155
+msgid "Embed Link"
+msgstr ""
+
+#: template/custom-metabox-functions.php:156
+msgid "enter the youtube, vimeo or any video embed link "
+msgstr ""
+
+#: template/custom-metabox-functions.php:164
+msgid "Gallery Post Options"
+msgstr ""
+
+#: template/custom-metabox-functions.php:173
+msgid "Choose Images "
+msgstr ""
+
+#: template/custom-metabox-functions.php:178
+msgid "Slider Disable Autoplay"
+msgstr ""
+
+#: template/custom-metabox-functions.php:179
+msgid "It will disable the gallery slider's autoplay functionality."
+msgstr ""
+
+#: template/custom-metabox-functions.php:184
+msgid "Slider Autoplay Timeout"
+msgstr ""
+
+#: template/custom-metabox-functions.php:190
+msgid "Slider Autoplay Speed"
+msgstr ""
+
+#: template/custom-metabox-functions.php:196
+msgid "Slider Disable Autoplay on Hover"
+msgstr ""
+
+#: template/custom-metabox-functions.php:201
+msgid "Slider Disable Loop"
+msgstr ""
+
+#: template/custom-metabox-functions.php:206
+msgid "Slider Disable Pagination"
+msgstr ""
+
+#: template/custom-metabox-functions.php:228
+msgid "Portfolio Options"
+msgstr ""
+
+#: template/custom-metabox-functions.php:236
+msgid "Portfolio thumbnail width"
+msgstr ""
+
+#: template/custom-metabox-functions.php:241
+msgid "Width 2x"
+msgstr ""
+
+#: template/custom-metabox-functions.php:246
+msgid "Portfolio custom link"
+msgstr ""
+
+#: template/custom-metabox-functions.php:247
+msgid "This custom link will replace the actual portfolio single page link."
+msgstr ""
+
+#: template/custom-metabox-functions.php:267
+msgid "Product Options"
+msgstr ""
+
+#: template/custom-metabox-functions.php:275
+msgid "Sub Title"
+msgstr ""
+
+#: template/custom-metabox-functions.php:276
+msgid "This subtitle will be shown below to the Title of this product."
+msgstr ""
+
+#: template/custom-metabox-functions.php:319
+msgid "Page Options"
+msgstr ""
+
+#: template/custom-metabox-functions.php:328
+msgid ""
+"It allows you to use the fullwidth of the screen. Highly recommanded if you "
+"are using the shortcodes(visual composer elements)."
+msgstr ""
+
+#: template/custom-metabox-functions.php:334
+msgid "Remove Margins"
+msgstr ""
+
+#: template/custom-metabox-functions.php:335
+msgid "It will remove the margin at the top & bottom."
+msgstr ""
+
+#: template/custom-metabox-functions.php:341
+msgid "Remove Title"
+msgstr ""
+
+#: template/custom-metabox-functions.php:347
+#: template/custom-redux-options.php:794
+msgid "Transparent Header"
+msgstr ""
+
+#: template/custom-metabox-functions.php:348
+msgid "It will overwrite the global(option panel) settings."
+msgstr ""
+
+#: template/custom-metabox-functions.php:353
+msgid "Reverse Header Skin"
+msgstr ""
+
+#: template/custom-metabox-functions.php:354
+msgid "It will reverse(interchange) your current header menu bar skin."
+msgstr ""
+
+#: template/custom-metabox-functions.php:359
+msgid "Agni Slider List"
+msgstr ""
+
+#: template/custom-metabox-functions.php:360
+msgid ""
+"Here, you can choose the slider which is created under Agni Slider Posttype."
+msgstr ""
+
+#: template/custom-metabox-functions.php:413
+msgid "Header Options"
+msgstr ""
+
+#: template/custom-metabox-functions.php:420
+msgid "Page header Type"
+msgstr ""
+
+#: template/custom-metabox-functions.php:424
+#: template/custom-metabox-functions.php:815
+#: template/custom-metabox-functions.php:1027
+#: template/custom-metabox-functions.php:1287
+#: template/custom-metabox-functions.php:1447
+msgid "Full Height(100%)"
+msgstr ""
+
+#: template/custom-metabox-functions.php:425
+#: template/custom-metabox-functions.php:816
+#: template/custom-metabox-functions.php:1028
+#: template/custom-metabox-functions.php:1288
+#: template/custom-metabox-functions.php:1448
+msgid "Custom Height"
+msgstr ""
+
+#: template/custom-metabox-functions.php:430
+msgid "Page Header Height"
+msgstr ""
+
+#: template/custom-metabox-functions.php:431
+#: template/custom-metabox-functions.php:822
+#: template/custom-metabox-functions.php:1034
+#: template/custom-metabox-functions.php:1294
+#: template/custom-metabox-functions.php:1454
+msgid "Enter your height in px"
+msgstr ""
+
+#: template/custom-metabox-functions.php:443
+msgid "if you want to use fullwidth content, check this."
+msgstr ""
+
+#: template/custom-metabox-functions.php:454
+msgid "Solid Color"
+msgstr ""
+
+#: template/custom-metabox-functions.php:460
+msgid "choose the Background color."
+msgstr ""
+
+#: template/custom-metabox-functions.php:481
+msgid "Overlay Color"
+msgstr ""
+
+#: template/custom-metabox-functions.php:482
+#: template/custom-metabox-functions.php:914
+#: template/custom-metabox-functions.php:1149
+#: template/custom-metabox-functions.php:1392
+msgid "This layer will be the overlay of the slider!!"
+msgstr ""
+
+#: template/custom-metabox-functions.php:495
+#: template/custom-metabox-functions.php:922
+#: template/custom-metabox-functions.php:1400
+#: template/custom-metabox-functions.php:1648
+msgid "type or pick the opacity level of the overlay from 0 to 1.."
+msgstr ""
+
+#: template/custom-metabox-functions.php:506
+#: template/custom-metabox-functions.php:865
+#: template/custom-metabox-functions.php:1343
+#: template/custom-metabox-functions.php:1592
+msgid "Parallax Starting Value"
+msgstr ""
+
+#: template/custom-metabox-functions.php:507
+msgid ""
+"Background position for page header for eg. transform:translateY(0px); leave "
+"it empty for no parallax"
+msgstr ""
+
+#: template/custom-metabox-functions.php:513
+#: template/custom-metabox-functions.php:872
+#: template/custom-metabox-functions.php:1350
+#: template/custom-metabox-functions.php:1599
+msgid "Parallax End Value"
+msgstr ""
+
+#: template/custom-metabox-functions.php:514
+msgid ""
+"Background position for page header for eg. transform:translateY(400px); "
+"leave it empty for no parallax"
+msgstr ""
+
+#: template/custom-metabox-functions.php:520
+#: template/custom-metabox-functions.php:720
+#: template/custom-metabox-functions.php:958
+#: template/custom-metabox-functions.php:1192
+#: template/custom-metabox-functions.php:1474
+msgid "Title rotator"
+msgstr ""
+
+#: template/custom-metabox-functions.php:521
+#: template/custom-metabox-functions.php:721
+#: template/custom-metabox-functions.php:959
+#: template/custom-metabox-functions.php:1193
+#: template/custom-metabox-functions.php:1475
+msgid "check this for text rotator(ticker)"
+msgstr ""
+
+#: template/custom-metabox-functions.php:528
+msgid ""
+"To use it as a text rotator(ticker). use the delimiter <strong>'|'</strong>"
+msgstr ""
+
+#: template/custom-metabox-functions.php:534
+msgid "Title Font Size"
+msgstr ""
+
+#: template/custom-metabox-functions.php:535
+msgid "font size in <strong>px</strong>"
+msgstr ""
+
+#: template/custom-metabox-functions.php:542
+#: template/custom-metabox-functions.php:898
+#: template/custom-metabox-functions.php:1134
+#: template/custom-metabox-functions.php:1376
+#: template/custom-metabox-functions.php:1624
+msgid "Choose the color for the heading/title"
+msgstr ""
+
+#: template/custom-metabox-functions.php:555
+#: template/custom-metabox-functions.php:905
+#: template/custom-metabox-functions.php:1141
+#: template/custom-metabox-functions.php:1383
+#: template/custom-metabox-functions.php:1631
+msgid "Description Color "
+msgstr ""
+
+#: template/custom-metabox-functions.php:556
+#: template/custom-metabox-functions.php:906
+#: template/custom-metabox-functions.php:1142
+#: template/custom-metabox-functions.php:1384
+#: template/custom-metabox-functions.php:1632
+msgid "choose the description color"
+msgstr ""
+
+#: template/custom-metabox-functions.php:563
+#: template/custom-metabox-functions.php:738
+#: template/custom-metabox-functions.php:974
+#: template/custom-metabox-functions.php:1210
+#: template/custom-metabox-functions.php:1500
+msgid "Button 1"
+msgstr ""
+
+#: template/custom-metabox-functions.php:564
+#: template/custom-metabox-functions.php:739
+#: template/custom-metabox-functions.php:975
+#: template/custom-metabox-functions.php:1211
+#: template/custom-metabox-functions.php:1501
+msgid "button 1 info"
+msgstr ""
+
+#: template/custom-metabox-functions.php:569
+#: template/custom-metabox-functions.php:744
+#: template/custom-metabox-functions.php:980
+#: template/custom-metabox-functions.php:1216
+#: template/custom-metabox-functions.php:1506
+msgid "Button 1 URL"
+msgstr ""
+
+#: template/custom-metabox-functions.php:570
+#: template/custom-metabox-functions.php:745
+#: template/custom-metabox-functions.php:769
+#: template/custom-metabox-functions.php:981
+#: template/custom-metabox-functions.php:1217
+#: template/custom-metabox-functions.php:1241
+#: template/custom-metabox-functions.php:1507
+#: template/custom-metabox-functions.php:1540
+msgid "button href"
+msgstr ""
+
+#: template/custom-metabox-functions.php:583
+msgid "background"
+msgstr ""
+
+#: template/custom-metabox-functions.php:593
+#: template/custom-metabox-functions.php:751
+#: template/custom-metabox-functions.php:775
+#: template/custom-metabox-functions.php:987
+#: template/custom-metabox-functions.php:1223
+#: template/custom-metabox-functions.php:1247
+msgid "Button Style"
+msgstr ""
+
+#: template/custom-metabox-functions.php:610
+#: template/custom-metabox-functions.php:1011
+msgid "Content Vertical Alignment"
+msgstr ""
+
+#: template/custom-metabox-functions.php:614
+#: template/custom-metabox-functions.php:803
+#: template/custom-metabox-functions.php:1015
+#: template/custom-metabox-functions.php:1275
+#: template/custom-metabox-functions.php:1584
+msgid "Top"
+msgstr ""
+
+#: template/custom-metabox-functions.php:615
+#: template/custom-metabox-functions.php:804
+#: template/custom-metabox-functions.php:1016
+#: template/custom-metabox-functions.php:1276
+#: template/custom-metabox-functions.php:1585
+msgid "Middle"
+msgstr ""
+
+#: template/custom-metabox-functions.php:616
+#: template/custom-metabox-functions.php:805
+#: template/custom-metabox-functions.php:1017
+#: template/custom-metabox-functions.php:1277
+#: template/custom-metabox-functions.php:1586
+msgid "Bottom"
+msgstr ""
+
+#: template/custom-metabox-functions.php:622
+#: template/custom-metabox-functions.php:787
+#: template/custom-metabox-functions.php:1259
+#: template/custom-metabox-functions.php:1568
+msgid "Slider Text Alignment"
+msgstr ""
+
+#: template/custom-metabox-functions.php:634
+msgid "Top Padding"
+msgstr ""
+
+#: template/custom-metabox-functions.php:635
+#: template/custom-metabox-functions.php:642
+msgid "padding for page header content. in px"
+msgstr ""
+
+#: template/custom-metabox-functions.php:641
+msgid "Bottom Padding"
+msgstr ""
+
+#: template/custom-metabox-functions.php:649
+msgid "Navigation Links"
+msgstr ""
+
+#: template/custom-metabox-functions.php:650
+msgid "check this to show the navigation link at header"
+msgstr ""
+
+#: template/custom-metabox-functions.php:665
+msgid "Agni Slider Options"
+msgstr ""
+
+#: template/custom-metabox-functions.php:672
+msgid "Slider Choice"
+msgstr ""
+
+#: template/custom-metabox-functions.php:673
+msgid "choose your slider, And fill the details below. "
+msgstr ""
+
+#: template/custom-metabox-functions.php:677
+msgid "Default(Slideshow)"
+msgstr ""
+
+#: template/custom-metabox-functions.php:678
+#: template/custom-metabox-functions.php:931
+#: template/custom-redux-options.php:2351
+msgid "Video BG"
+msgstr ""
+
+#: template/custom-metabox-functions.php:679
+msgid "Text slider"
+msgstr ""
+
+#: template/custom-metabox-functions.php:680
+msgid "Image slider"
+msgstr ""
+
+#: template/custom-metabox-functions.php:686
+msgid "Slideshow"
+msgstr ""
+
+#: template/custom-metabox-functions.php:699
+#: template/custom-metabox-functions.php:943
+#: template/custom-metabox-functions.php:1177
+#: template/custom-metabox-functions.php:1422
+msgid "Slide {#}"
+msgstr ""
+
+#: template/custom-metabox-functions.php:700
+#: template/custom-metabox-functions.php:944
+#: template/custom-metabox-functions.php:1178
+#: template/custom-metabox-functions.php:1423
+msgid "Add another Slide"
+msgstr ""
+
+#: template/custom-metabox-functions.php:701
+#: template/custom-metabox-functions.php:945
+#: template/custom-metabox-functions.php:1179
+#: template/custom-metabox-functions.php:1424
+msgid "Remove Slide"
+msgstr ""
+
+#: template/custom-metabox-functions.php:714
+msgid "Slide Image"
+msgstr ""
+
+#: template/custom-metabox-functions.php:727
+#: template/custom-metabox-functions.php:1199
+#: template/custom-metabox-functions.php:1467
+msgid "To use it as a text rotator(ticker).. use the delimiter '|'"
+msgstr ""
+
+#: template/custom-metabox-functions.php:733
+#: template/custom-metabox-functions.php:969
+#: template/custom-metabox-functions.php:1205
+#: template/custom-metabox-functions.php:1495
+msgid "Additional Title"
+msgstr ""
+
+#: template/custom-metabox-functions.php:762
+#: template/custom-metabox-functions.php:1234
+#: template/custom-metabox-functions.php:1533
+msgid "Button 2"
+msgstr ""
+
+#: template/custom-metabox-functions.php:763
+#: template/custom-metabox-functions.php:1235
+#: template/custom-metabox-functions.php:1534
+msgid "button 2 info"
+msgstr ""
+
+#: template/custom-metabox-functions.php:768
+#: template/custom-metabox-functions.php:1240
+#: template/custom-metabox-functions.php:1539
+msgid "Button 2 URL"
+msgstr ""
+
+#: template/custom-metabox-functions.php:799
+#: template/custom-metabox-functions.php:1271
+#: template/custom-metabox-functions.php:1580
+msgid "Slider content Vertical Alignment"
+msgstr ""
+
+#: template/custom-metabox-functions.php:811
+#: template/custom-metabox-functions.php:1023
+#: template/custom-metabox-functions.php:1283
+#: template/custom-metabox-functions.php:1443
+msgid "Slider Type"
+msgstr ""
+
+#: template/custom-metabox-functions.php:821
+#: template/custom-metabox-functions.php:1033
+#: template/custom-metabox-functions.php:1293
+#: template/custom-metabox-functions.php:1453
+msgid "Slider Height"
+msgstr ""
+
+#: template/custom-metabox-functions.php:833
+#: template/custom-metabox-functions.php:1101
+#: template/custom-metabox-functions.php:1311
+msgid "Title Animation"
+msgstr ""
+
+#: template/custom-metabox-functions.php:834
+#: template/custom-metabox-functions.php:853
+#: template/custom-metabox-functions.php:1102
+#: template/custom-metabox-functions.php:1121
+#: template/custom-metabox-functions.php:1312
+#: template/custom-metabox-functions.php:1331
+msgid "Checking this for FadeIn animation."
+msgstr ""
+
+#: template/custom-metabox-functions.php:839
+#: template/custom-metabox-functions.php:1107
+#: template/custom-metabox-functions.php:1317
+#: template/custom-metabox-functions.php:1485
+msgid "Title Border"
+msgstr ""
+
+#: template/custom-metabox-functions.php:840
+#: template/custom-metabox-functions.php:1108
+#: template/custom-metabox-functions.php:1318
+#: template/custom-metabox-functions.php:1486
+msgid "Show border around the title"
+msgstr ""
+
+#: template/custom-metabox-functions.php:846
+#: template/custom-metabox-functions.php:1114
+#: template/custom-metabox-functions.php:1324
+msgid "Additional Title Animation"
+msgstr ""
+
+#: template/custom-metabox-functions.php:847
+#: template/custom-metabox-functions.php:1115
+#: template/custom-metabox-functions.php:1325
+msgid "Checking this for FadeInUp animation."
+msgstr ""
+
+#: template/custom-metabox-functions.php:852
+#: template/custom-metabox-functions.php:1120
+#: template/custom-metabox-functions.php:1330
+msgid "Divide Line Animation"
+msgstr ""
+
+#: template/custom-metabox-functions.php:858
+#: template/custom-metabox-functions.php:1126
+#: template/custom-metabox-functions.php:1336
+msgid "Buttons Animation"
+msgstr ""
+
+#: template/custom-metabox-functions.php:859
+#: template/custom-metabox-functions.php:1127
+#: template/custom-metabox-functions.php:1337
+msgid "Checking this for FadeInDown animation."
+msgstr ""
+
+#: template/custom-metabox-functions.php:866
+msgid ""
+"enter the css property for the slider's top at the top of the screen... for "
+"eg.transform:translateY(0px); if don't want parallax just leave this empty"
+msgstr ""
+
+#: template/custom-metabox-functions.php:873
+msgid ""
+"enter the css property for the slider's bottom when at the top of the "
+"screen... for eg.transform:translateY(400px); if don't want parallax just "
+"leave this empty"
+msgstr ""
+
+#: template/custom-metabox-functions.php:879
+#: template/custom-metabox-functions.php:1357
+#: template/custom-metabox-functions.php:1606
+msgid "Bottom Arrow link"
+msgstr ""
+
+#: template/custom-metabox-functions.php:880
+#: template/custom-metabox-functions.php:1358
+#: template/custom-metabox-functions.php:1607
+msgid "to hide Bottom Arrow, keep this field empty"
+msgstr ""
+
+#: template/custom-metabox-functions.php:886
+#: template/custom-metabox-functions.php:1364
+#: template/custom-metabox-functions.php:1612
+msgid "Bottom Arrow Color"
+msgstr ""
+
+#: template/custom-metabox-functions.php:887
+#: template/custom-metabox-functions.php:1365
+#: template/custom-metabox-functions.php:1613
+msgid "Choose the color for the bottom arrow"
+msgstr ""
+
+#: template/custom-metabox-functions.php:913
+#: template/custom-metabox-functions.php:1148
+#: template/custom-metabox-functions.php:1391
+#: template/custom-metabox-functions.php:1639
+msgid "Overlay BG Color"
+msgstr ""
+
+#: template/custom-metabox-functions.php:999
+msgid "Content Text Alignment"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1046
+msgid "Background Video Src"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1050
+msgid "YouTube"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1051
+msgid "Selfhosted"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1058
+msgid "video url only from youtube!!"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1069
+msgid "Fallback image for mobile & tablets"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1079
+msgid "Choose the media from your local server"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1089
+msgid "Poster URL"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1090
+msgid "This poster will be displayed before video get started"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1156
+msgid "Opacity of the video overlay layer!!.."
+msgstr ""
+
+#: template/custom-metabox-functions.php:1164
+#: template/custom-redux-options.php:2259
+msgid "Text Slider"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1306
+#: template/custom-metabox-functions.php:1437
+msgid "Choose the image from your local server"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1344
+#: template/custom-metabox-functions.php:1593
+msgid ""
+"enter the css property for the slider's top at the top of the screen. for eg."
+"transform:translateY(0px); if don't want parallax just leave this empty"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1351
+#: template/custom-metabox-functions.php:1600
+msgid ""
+"enter the css property for the slider's bottom when at the top of the "
+"screen. for eg.transform:translateY(400px); if don't want parallax just "
+"leave this empty"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1409
+#: template/custom-redux-options.php:2305
+msgid "Image Slider"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1518
+msgid "Button 1 Style"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1552
+msgid "Button 2 Style"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1640
+msgid "This layer will be the overlay of the slider!"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1671
+msgid "Team Members"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1679
+#: template/custom-metabox-functions.php:1775
+msgid "Image/photo"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1691
+msgid "Link for Name"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1697
+msgid "Designation"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1703
+msgid "Facebook"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1704
+msgid "Facebook link"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1710
+msgid "Twitter"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1716
+msgid "Google Plus"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1721
+msgid "VK"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1726
+msgid "behance"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1731
+msgid "pinterest"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1736
+msgid "dribbble"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1741
+msgid "Skype"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1746
+msgid "Linkedin"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1781
+msgid "Link for Image"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1809
+msgid "Avatar of author"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1815
+msgid "Testimonial Text"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1816
+msgid "quote said by the author.."
+msgstr ""
+
+#: template/custom-metabox-functions.php:1822
+msgid "Author Name"
+msgstr ""
+
+#: template/custom-metabox-functions.php:1827
+msgid "Author Designation"
+msgstr ""
+
+#: template/custom-redux-options.php:160
+msgid "Documentation"
+msgstr ""
+
+#: template/custom-redux-options.php:166
+msgid "Support"
+msgstr ""
+
+#: template/custom-redux-options.php:172
+msgid "Extensions"
+msgstr ""
+
+#: template/custom-redux-options.php:191
+msgid "Theme Information 1"
+msgstr ""
+
+#: template/custom-redux-options.php:192 template/custom-redux-options.php:197
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+#: template/custom-redux-options.php:196
+msgid "Theme Information 2"
+msgstr ""
+
+#: template/custom-redux-options.php:203
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: template/custom-redux-options.php:227
+msgid "Home Settings"
+msgstr ""
+
+#: template/custom-redux-options.php:233 template/custom-redux-options.php:776
+#: template/custom-redux-options.php:1510
+#: template/custom-redux-options.php:1738
+#: template/custom-redux-options.php:2062
+msgid "General"
+msgstr ""
+
+#: template/custom-redux-options.php:236
+msgid "The following options will allow you to set body background, logo, etc."
+msgstr ""
+
+#: template/custom-redux-options.php:243
+msgid "Body Background"
+msgstr ""
+
+#: template/custom-redux-options.php:244
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: template/custom-redux-options.php:250
+msgid "Font 1"
+msgstr ""
+
+#: template/custom-redux-options.php:261
+msgid "This options applies to H tags(Heading)"
+msgstr ""
+
+#: template/custom-redux-options.php:270
+msgid "Font 2"
+msgstr ""
+
+#: template/custom-redux-options.php:281
+msgid "This is for all additional heading content."
+msgstr ""
+
+#: template/custom-redux-options.php:290
+msgid "Font 3"
+msgstr ""
+
+#: template/custom-redux-options.php:301
+msgid "This is a base font for all body content."
+msgstr ""
+
+#: template/custom-redux-options.php:312
+msgid "Accent color"
+msgstr ""
+
+#: template/custom-redux-options.php:317
+msgid "It applies the color to element borders/lines, heading underlines."
+msgstr ""
+
+#: template/custom-redux-options.php:326
+msgid "Primary color"
+msgstr ""
+
+#: template/custom-redux-options.php:331
+msgid "It applies the color to H tags & buttons"
+msgstr ""
+
+#: template/custom-redux-options.php:339
+msgid "Default color"
+msgstr ""
+
+#: template/custom-redux-options.php:344
+msgid ""
+"It applies the color to body content & button this is a basic color for all "
+"text."
+msgstr ""
+
+#: template/custom-redux-options.php:353
+msgid "Layout"
+msgstr ""
+
+#: template/custom-redux-options.php:356
+msgid "Here, you can setup site layout options."
+msgstr ""
+
+#: template/custom-redux-options.php:362
+msgid "Content Padding/Border"
+msgstr ""
+
+#: template/custom-redux-options.php:363
+msgid ""
+"Enable this to display border/padding around the content/layout of the site."
+msgstr ""
+
+#: template/custom-redux-options.php:370
+msgid "Amount of pixels"
+msgstr ""
+
+#: template/custom-redux-options.php:371
+msgid "It will display the border above & below to the menu items."
+msgstr ""
+
+#: template/custom-redux-options.php:375
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: template/custom-redux-options.php:386
+msgid "Container Settings"
+msgstr ""
+
+#: template/custom-redux-options.php:387
+msgid ""
+"By Enabling this you can controls the container width on each break point."
+msgstr ""
+
+#: template/custom-redux-options.php:394
+msgid "Container Width >768"
+msgstr ""
+
+#: template/custom-redux-options.php:395 template/custom-redux-options.php:465
+msgid "this container width apply when viewport width is more than 768px."
+msgstr ""
+
+#: template/custom-redux-options.php:405
+msgid "Container Width >992"
+msgstr ""
+
+#: template/custom-redux-options.php:415
+msgid "Container Width >1200"
+msgstr ""
+
+#: template/custom-redux-options.php:425
+msgid "Container Width >1500"
+msgstr ""
+
+#: template/custom-redux-options.php:444
+msgid "Container inner Padding"
+msgstr ""
+
+#: template/custom-redux-options.php:445
+msgid "Here, you can set padding to the container."
+msgstr ""
+
+#: template/custom-redux-options.php:456
+msgid "Boxed Layout"
+msgstr ""
+
+#: template/custom-redux-options.php:457
+msgid "Enable this to display all the content inside the box"
+msgstr ""
+
+#: template/custom-redux-options.php:464
+msgid "Box Width >768"
+msgstr ""
+
+#: template/custom-redux-options.php:475
+msgid "Box Width >992"
+msgstr ""
+
+#: template/custom-redux-options.php:485
+msgid "Box Width >1200"
+msgstr ""
+
+#: template/custom-redux-options.php:495
+msgid "Box Width >1500"
+msgstr ""
+
+#: template/custom-redux-options.php:508
+msgid "Boxed background color"
+msgstr ""
+
+#: template/custom-redux-options.php:518
+msgid "Additional"
+msgstr ""
+
+#: template/custom-redux-options.php:521
+msgid "Some additional options to control preloader, back to top."
+msgstr ""
+
+#: template/custom-redux-options.php:526
+msgid "PreLoader"
+msgstr ""
+
+#: template/custom-redux-options.php:527 template/custom-redux-options.php:576
+msgid "Just enable this to show the preloader"
+msgstr ""
+
+#: template/custom-redux-options.php:534
+msgid "PreLoader Style"
+msgstr ""
+
+#: template/custom-redux-options.php:550
+msgid "Loader color "
+msgstr ""
+
+#: template/custom-redux-options.php:551
+#: template/custom-redux-options.php:1347
+msgid "Pick the title font color.."
+msgstr ""
+
+#: template/custom-redux-options.php:559 template/custom-redux-options.php:567
+msgid "Loader Close Button"
+msgstr ""
+
+#: template/custom-redux-options.php:560
+msgid "Once everything is loaded, It will wait for your command."
+msgstr ""
+
+#: template/custom-redux-options.php:575
+msgid "Back to top"
+msgstr ""
+
+#: template/custom-redux-options.php:583
+msgid "Back to top icon"
+msgstr ""
+
+#: template/custom-redux-options.php:584
+msgid ""
+"type the icon class for eg. ion-ios-arrow-up For more. refer ionicons, "
+"fontawesome"
+msgstr ""
+
+#: template/custom-redux-options.php:594
+msgid "Header Settings"
+msgstr ""
+
+#: template/custom-redux-options.php:600
+msgid "Basic & Logo"
+msgstr ""
+
+#: template/custom-redux-options.php:603
+msgid "Upload your logo/Customize your site title here."
+msgstr ""
+
+#: template/custom-redux-options.php:608
+msgid "Site Title"
+msgstr ""
+
+#: template/custom-redux-options.php:609
+msgid "if you want to display the site title as a logo, just enable this."
+msgstr ""
+
+#: template/custom-redux-options.php:618
+msgid "Logo 1"
+msgstr ""
+
+#: template/custom-redux-options.php:621
+msgid "This is main logo and will be displayed when you are at the top."
+msgstr ""
+
+#: template/custom-redux-options.php:630
+msgid "Logo 2(Optional)"
+msgstr ""
+
+#: template/custom-redux-options.php:632
+msgid ""
+"This is additional logo and will override the Logo 1 except at the top. "
+msgstr ""
+
+#: template/custom-redux-options.php:651
+msgid "Logo Top/Bottom Padding(inner)"
+msgstr ""
+
+#: template/custom-redux-options.php:652
+#: template/custom-redux-options.php:1273
+msgid ""
+"Here, you can set padding to the logo image. it will add space inside the "
+"logo."
+msgstr ""
+
+#: template/custom-redux-options.php:653
+msgid "Note: it won't affect the height of the header"
+msgstr ""
+
+#: template/custom-redux-options.php:664
+msgid "Site Title 1 Font options"
+msgstr ""
+
+#: template/custom-redux-options.php:675
+#: template/custom-redux-options.php:1020
+msgid "if you use the text logo, it will be helpful"
+msgstr ""
+
+#: template/custom-redux-options.php:688
+msgid "Site Title 2 Font options(optional)"
+msgstr ""
+
+#: template/custom-redux-options.php:699
+msgid "This is an optional and helpful when you're using sticky header."
+msgstr ""
+
+#: template/custom-redux-options.php:711
+msgid "Header Style"
+msgstr ""
+
+#: template/custom-redux-options.php:712
+msgid "Choose the header display style."
+msgstr ""
+
+#: template/custom-redux-options.php:735
+msgid "Logo Top/Bottom Padding(Outer)"
+msgstr ""
+
+#: template/custom-redux-options.php:736
+msgid ""
+"Here, you can set padding to the logo image. it will add space outside the "
+"logo."
+msgstr ""
+
+#: template/custom-redux-options.php:743
+msgid "Minimal Menu Name"
+msgstr ""
+
+#: template/custom-redux-options.php:744
+msgid "Name/Text to display left to the hamburger icon."
+msgstr ""
+
+#: template/custom-redux-options.php:752
+msgid "Header Logo Background color"
+msgstr ""
+
+#: template/custom-redux-options.php:753
+msgid ""
+"Main Logo background color. You can even set the Transparency to the "
+"background color at the top."
+msgstr ""
+
+#: template/custom-redux-options.php:766
+msgid "Header Logo Background color 2(Optional)"
+msgstr ""
+
+#: template/custom-redux-options.php:767
+#: template/custom-redux-options.php:1000
+msgid "background color except at the top."
+msgstr ""
+
+#: template/custom-redux-options.php:779
+msgid "Here, you can customize header style, size, icons etc."
+msgstr ""
+
+#: template/custom-redux-options.php:786
+msgid "Sticky Header"
+msgstr ""
+
+#: template/custom-redux-options.php:787
+msgid "Disable sticky header by turning off"
+msgstr ""
+
+#: template/custom-redux-options.php:795
+msgid ""
+"This option make whole header background transparent completely. And this "
+"will not affect the sticky header(if enabled)."
+msgstr ""
+
+#: template/custom-redux-options.php:796
+msgid "This option can be overwritten by each page's Page option."
+msgstr ""
+
+#: template/custom-redux-options.php:803
+msgid "Shrink Header"
+msgstr ""
+
+#: template/custom-redux-options.php:804
+msgid "This option is used to reduce the height of the menu to 60px."
+msgstr ""
+
+#: template/custom-redux-options.php:811
+msgid "Fullwidth Header"
+msgstr ""
+
+#: template/custom-redux-options.php:817
+#: template/custom-redux-options.php:2497
+msgid "Search Box"
+msgstr ""
+
+#: template/custom-redux-options.php:825
+msgid "Language Boxes"
+msgstr ""
+
+#: template/custom-redux-options.php:834
+msgid "WPML Language Switch"
+msgstr ""
+
+#: template/custom-redux-options.php:835
+msgid "It will work only when you have WPML plugin activated"
+msgstr ""
+
+#: template/custom-redux-options.php:844
+msgid "Language Menu Name"
+msgstr ""
+
+#: template/custom-redux-options.php:845
+msgid ""
+"Name to display inside the language menu in the header. You also can display "
+"the icon by placing the html tag."
+msgstr ""
+
+#: template/custom-redux-options.php:846
+msgid " for icon ref. http://fortawesome.github.io/Font-Awesome/icons/"
+msgstr ""
+
+#: template/custom-redux-options.php:853
+msgid "Language List"
+msgstr ""
+
+#: template/custom-redux-options.php:854
+msgid ""
+"To give your own langauage link, just go to text mode and replace '#' with "
+"your link."
+msgstr ""
+
+#: template/custom-redux-options.php:864
+msgid "Shopping Cart Box"
+msgstr ""
+
+#: template/custom-redux-options.php:865
+msgid "It will work only when Woocommerce is activated."
+msgstr ""
+
+#: template/custom-redux-options.php:874
+msgid "Cart Amount"
+msgstr ""
+
+#: template/custom-redux-options.php:880
+msgid "Header Icons Color 1"
+msgstr ""
+
+#: template/custom-redux-options.php:881
+msgid "This is main color for regular & hover icons links."
+msgstr ""
+
+#: template/custom-redux-options.php:891
+msgid "Header Icons Color 2(Optional)"
+msgstr ""
+
+#: template/custom-redux-options.php:892
+msgid "It will override the Header Icons Color 1 except at the top."
+msgstr ""
+
+#: template/custom-redux-options.php:903 template/custom-redux-options.php:912
+msgid "Top Bar"
+msgstr ""
+
+#: template/custom-redux-options.php:906
+msgid "Here, you can customize header topbar and topbar's menu."
+msgstr ""
+
+#: template/custom-redux-options.php:913
+msgid "This is top bar which is shown above to the header menu."
+msgstr ""
+
+#: template/custom-redux-options.php:914
+msgid "Note: This bar will be hidden on mobile devices."
+msgstr ""
+
+#: template/custom-redux-options.php:923
+msgid "Email Address"
+msgstr ""
+
+#: template/custom-redux-options.php:929
+msgid "Contact number"
+msgstr ""
+
+#: template/custom-redux-options.php:936
+msgid "Top bar Color"
+msgstr ""
+
+#: template/custom-redux-options.php:944 template/theme-functions.php:35
+msgid "Top Bar Menu"
+msgstr ""
+
+#: template/custom-redux-options.php:951
+msgid "Top Bar Menu Links Color"
+msgstr ""
+
+#: template/custom-redux-options.php:952
+#: template/custom-redux-options.php:1305
+msgid ""
+"Just choose you color for regular & hover links. its applicable only on menu "
+"items."
+msgstr ""
+
+#: template/custom-redux-options.php:965
+msgid "Header Top Bar Background color"
+msgstr ""
+
+#: template/custom-redux-options.php:966
+#: template/custom-redux-options.php:1242
+msgid "You can even set the Transparency to the background color."
+msgstr ""
+
+#: template/custom-redux-options.php:978
+msgid "Header Menu"
+msgstr ""
+
+#: template/custom-redux-options.php:981
+msgid "Here, you can change menu items color, font, etc."
+msgstr ""
+
+#: template/custom-redux-options.php:986
+msgid "Header Menu Background color"
+msgstr ""
+
+#: template/custom-redux-options.php:987
+msgid ""
+"Main Menu background color. You can even set the Transparency to the "
+"background color at the top."
+msgstr ""
+
+#: template/custom-redux-options.php:999
+msgid "Header Menu Background color 2(Optional)"
+msgstr ""
+
+#: template/custom-redux-options.php:1008
+msgid "Header Menu font options"
+msgstr ""
+
+#: template/custom-redux-options.php:1031
+msgid "Header Menu Links Color"
+msgstr ""
+
+#: template/custom-redux-options.php:1032
+msgid ""
+"Main menu color for regular & hover links. it will be applied at the top."
+msgstr ""
+
+#: template/custom-redux-options.php:1043
+msgid "Header Menu Links Color 2(Optional)"
+msgstr ""
+
+#: template/custom-redux-options.php:1044
+msgid "Menu link color except at the top."
+msgstr ""
+
+#: template/custom-redux-options.php:1055
+msgid "Header Menu Border"
+msgstr ""
+
+#: template/custom-redux-options.php:1056
+msgid "Main border above & below to the menu items at the top."
+msgstr ""
+
+#: template/custom-redux-options.php:1071
+msgid "Header Menu Border Color"
+msgstr ""
+
+#: template/custom-redux-options.php:1072
+msgid "Main border color above & below to the menu items at the top."
+msgstr ""
+
+#: template/custom-redux-options.php:1080
+msgid "Header Menu Border 2(Optional)"
+msgstr ""
+
+#: template/custom-redux-options.php:1081
+msgid "Optional border above & below to the menu items except at the top."
+msgstr ""
+
+#: template/custom-redux-options.php:1095
+msgid "Header Menu Border Color 2(Optional)"
+msgstr ""
+
+#: template/custom-redux-options.php:1096
+msgid "Main border color above & below to the menu items except at the top."
+msgstr ""
+
+#: template/custom-redux-options.php:1105
+#: template/custom-redux-options.php:1398
+msgid "Social Media"
+msgstr ""
+
+#: template/custom-redux-options.php:1108
+msgid "Here, you can enable/disable, sort the social media icons for header."
+msgstr ""
+
+#: template/custom-redux-options.php:1113
+#: template/custom-redux-options.php:1406
+msgid "Social Media Icons"
+msgstr ""
+
+#: template/custom-redux-options.php:1114
+msgid "enable this to show the list of social media icons"
+msgstr ""
+
+#: template/custom-redux-options.php:1123
+msgid "Social Icons Style"
+msgstr ""
+
+#: template/custom-redux-options.php:1124
+msgid ""
+"You can display the social icons in two way. One is default(sequence of "
+"icons) another one is dropdown style."
+msgstr ""
+
+#: template/custom-redux-options.php:1135
+msgid "Location"
+msgstr ""
+
+#: template/custom-redux-options.php:1136
+msgid ""
+"Here, You can set the place where you want to display the social media icons"
+msgstr ""
+
+#: template/custom-redux-options.php:1137
+msgid "Note : Top Menu option only work when you enabled Top Bar."
+msgstr ""
+
+#: template/custom-redux-options.php:1149
+#: template/custom-redux-options.php:1438
+msgid "Link target"
+msgstr ""
+
+#: template/custom-redux-options.php:1150
+msgid "Choose the target of the link on click."
+msgstr ""
+
+#: template/custom-redux-options.php:1162
+#: template/custom-redux-options.php:1451
+msgid "Choose your icons"
+msgstr ""
+
+#: template/custom-redux-options.php:1163
+msgid "Enable the Social icon which you want to display in header"
+msgstr ""
+
+#: template/custom-redux-options.php:1215
+msgid "Footer Settings"
+msgstr ""
+
+#: template/custom-redux-options.php:1221
+msgid "General & Colophon"
+msgstr ""
+
+#: template/custom-redux-options.php:1224
+msgid "This option allows you to change footer colophon text, color, etc."
+msgstr ""
+
+#: template/custom-redux-options.php:1230
+msgid "Footer Style"
+msgstr ""
+
+#: template/custom-redux-options.php:1231
+msgid "Choose the any of the one footer style."
+msgstr ""
+
+#: template/custom-redux-options.php:1241
+msgid "Footer Colophon Background color"
+msgstr ""
+
+#: template/custom-redux-options.php:1254
+msgid "Footer Logo"
+msgstr ""
+
+#: template/custom-redux-options.php:1258
+msgid "Here, you can upload logo to display in the footer."
+msgstr ""
+
+#: template/custom-redux-options.php:1272
+msgid "Logo Top/Bottom inner Padding"
+msgstr ""
+
+#: template/custom-redux-options.php:1274
+msgid "Note: it won't affect the height of the footer"
+msgstr ""
+
+#: template/custom-redux-options.php:1284
+msgid "Footer Text"
+msgstr ""
+
+#: template/custom-redux-options.php:1285
+msgid "you can type your footer text/content here.."
+msgstr ""
+
+#: template/custom-redux-options.php:1297 template/theme-functions.php:36
+msgid "Footer Menu"
+msgstr ""
+
+#: template/custom-redux-options.php:1304
+msgid "Footer Menu Links Color"
+msgstr ""
+
+#: template/custom-redux-options.php:1317
+msgid "Widget bar"
+msgstr ""
+
+#: template/custom-redux-options.php:1320
+msgid "Here, you can control the widget bar inside the footer."
+msgstr ""
+
+#: template/custom-redux-options.php:1325
+msgid "Footer Widget bar"
+msgstr ""
+
+#: template/custom-redux-options.php:1326
+msgid "Disable footer widget by turning off"
+msgstr ""
+
+#: template/custom-redux-options.php:1335
+msgid "Footer Bar background"
+msgstr ""
+
+#: template/custom-redux-options.php:1336
+msgid "Pick the background color/image for header "
+msgstr ""
+
+#: template/custom-redux-options.php:1346
+msgid "Title color "
+msgstr ""
+
+#: template/custom-redux-options.php:1357
+msgid "Text color "
+msgstr ""
+
+#: template/custom-redux-options.php:1358
+msgid "Pick the text font color.."
+msgstr ""
+
+#: template/custom-redux-options.php:1366
+msgid "Links Color"
+msgstr ""
+
+#: template/custom-redux-options.php:1367
+msgid "Just choose you color for regular & hover links."
+msgstr ""
+
+#: template/custom-redux-options.php:1386
+msgid "Title Underline color "
+msgstr ""
+
+#: template/custom-redux-options.php:1387
+msgid "Pick the title underline font color.."
+msgstr ""
+
+#: template/custom-redux-options.php:1401
+msgid "Here, you can enable/disable, sort the social media icons in footer."
+msgstr ""
+
+#: template/custom-redux-options.php:1407
+msgid ""
+"enable this to show the list of social media icons to display in the footer"
+msgstr ""
+
+#: template/custom-redux-options.php:1416
+msgid "Social Media Icons Style"
+msgstr ""
+
+#: template/custom-redux-options.php:1427
+msgid "Footer Social Links Color"
+msgstr ""
+
+#: template/custom-redux-options.php:1439
+msgid "Choose the target of the icon when clicked."
+msgstr ""
+
+#: template/custom-redux-options.php:1452
+msgid "Enable the Social icon which you want to display in footer"
+msgstr ""
+
+#: template/custom-redux-options.php:1504
+msgid "Blog Settings"
+msgstr ""
+
+#: template/custom-redux-options.php:1513
+msgid "This allows you setup the blog layout, sidebar, etc."
+msgstr ""
+
+#: template/custom-redux-options.php:1519
+msgid "Blog Layout"
+msgstr ""
+
+#: template/custom-redux-options.php:1533
+msgid "Blog Grid Style"
+msgstr ""
+
+#: template/custom-redux-options.php:1534
+msgid "Choose any of one grid style. fitRows is default."
+msgstr ""
+
+#: template/custom-redux-options.php:1557
+msgid "Archive Layout"
+msgstr ""
+
+#: template/custom-redux-options.php:1569
+msgid "Archive Sidebar"
+msgstr ""
+
+#: template/custom-redux-options.php:1580
+msgid "Blog Navigation Style"
+msgstr ""
+
+#: template/custom-redux-options.php:1581
+msgid "Choose any of one navigation style to display on the blog page."
+msgstr ""
+
+#: template/custom-redux-options.php:1594
+msgid "Author Biography"
+msgstr ""
+
+#: template/custom-redux-options.php:1595
+msgid "It enables the author biography on each post."
+msgstr ""
+
+#: template/custom-redux-options.php:1607
+msgid "Here, you can customize the carousel of the blog page"
+msgstr ""
+
+#: template/custom-redux-options.php:1612
+msgid "Blog Posts Carousel"
+msgstr ""
+
+#: template/custom-redux-options.php:1613
+msgid "This option enable the carousel at the top of the latest posts page."
+msgstr ""
+
+#: template/custom-redux-options.php:1623
+msgid "Choose the categories to display"
+msgstr ""
+
+#: template/custom-redux-options.php:1624
+msgid "You can select multiple categories."
+msgstr ""
+
+#: template/custom-redux-options.php:1631
+msgid "Note: Posts which are doesn't have the thumbnail will be ignored."
+msgstr ""
+
+#: template/custom-redux-options.php:1639
+msgid "Carousel Posts Overlay Opacity"
+msgstr ""
+
+#: template/custom-redux-options.php:1640
+msgid "Set the overlay opacity values for each post."
+msgstr ""
+
+#: template/custom-redux-options.php:1652
+msgid "Carousel Naviagtion"
+msgstr ""
+
+#: template/custom-redux-options.php:1653
+msgid "It bring arrows to the carousel to move prev/next posts."
+msgstr ""
+
+#: template/custom-redux-options.php:1660
+msgid "Carousel Pagination"
+msgstr ""
+
+#: template/custom-redux-options.php:1661
+msgid "It bring dots to the carousel to move prev/next posts."
+msgstr ""
+
+#: template/custom-redux-options.php:1668
+msgid "Carousel Posts Loop"
+msgstr ""
+
+#: template/custom-redux-options.php:1675
+msgid "Carousel Posts Autoplay"
+msgstr ""
+
+#: template/custom-redux-options.php:1682
+msgid "Carousel Posts Gutter"
+msgstr ""
+
+#: template/custom-redux-options.php:1683
+msgid "Set the values, if you need margin(space) between each post."
+msgstr ""
+
+#: template/custom-redux-options.php:1693
+#: template/custom-redux-options.php:2016
+#: template/custom-redux-options.php:2164
+msgid "Share icons"
+msgstr ""
+
+#: template/custom-redux-options.php:1696
+#: template/custom-redux-options.php:2019
+#: template/custom-redux-options.php:2167
+msgid "Here, you can enable/disable some of the necessary share icons."
+msgstr ""
+
+#: template/custom-redux-options.php:1701
+msgid "Blog Sharing icons"
+msgstr ""
+
+#: template/custom-redux-options.php:1702
+msgid "This option enable the sharing panel at the bottom of every post."
+msgstr ""
+
+#: template/custom-redux-options.php:1711
+#: template/custom-redux-options.php:2034
+#: template/custom-redux-options.php:2182
+msgid "Share Icons"
+msgstr ""
+
+#: template/custom-redux-options.php:1733
+msgid "Portfolio Settings"
+msgstr ""
+
+#: template/custom-redux-options.php:1741
+msgid ""
+"This option allows you to setup the portfolio grid, layout style. Note: Most "
+"of these portfolio settings apply only when you choose portfolio at template "
+"attributes"
+msgstr ""
+
+#: template/custom-redux-options.php:1746
+msgid "Portfolio Layout(Columns)"
+msgstr ""
+
+#: template/custom-redux-options.php:1747
+msgid "Layout for your portfolio page "
+msgstr ""
+
+#: template/custom-redux-options.php:1748
+msgid "Choose an image to your portfolio page"
+msgstr ""
+
+#: template/custom-redux-options.php:1762
+msgid "If you need fullwidth portfolio section.. just enable it!"
+msgstr ""
+
+#: template/custom-redux-options.php:1768
+#: template/custom-redux-options.php:2091
+msgid "Gutter"
+msgstr ""
+
+#: template/custom-redux-options.php:1769
+#: template/custom-redux-options.php:2092
+msgid "It will bring some space in between the items horizontally."
+msgstr ""
+
+#: template/custom-redux-options.php:1775
+msgid "Portfolio Masonry Style"
+msgstr ""
+
+#: template/custom-redux-options.php:1776
+msgid "You can choose your isotope layout style."
+msgstr ""
+
+#: template/custom-redux-options.php:1815
+msgid "If you need caption(title/category) at the bottom. just enable it!."
+msgstr ""
+
+#: template/custom-redux-options.php:1822
+msgid "Filter"
+msgstr ""
+
+#: template/custom-redux-options.php:1823
+msgid "If you don't want to show the filter disabe it!. "
+msgstr ""
+
+#: template/custom-redux-options.php:1832
+#: template/custom-redux-options.php:1932
+msgid "Descending"
+msgstr ""
+
+#: template/custom-redux-options.php:1841
+msgid "Portfolio Filter Orderby"
+msgstr ""
+
+#: template/custom-redux-options.php:1857
+msgid "Portfolio Filter Align"
+msgstr ""
+
+#: template/custom-redux-options.php:1869
+msgid "Text alternative for \"All\""
+msgstr ""
+
+#: template/custom-redux-options.php:1870
+msgid "type the alternative text for the portfolio filter's All text"
+msgstr ""
+
+#: template/custom-redux-options.php:1876
+msgid "Portfolio Animation"
+msgstr ""
+
+#: template/custom-redux-options.php:1877
+msgid "If you don't want the animation on each portfolio item disable it."
+msgstr ""
+
+#: template/custom-redux-options.php:1878
+msgid ""
+"This animation will show the items one by one only when it reaches the "
+"viewport."
+msgstr ""
+
+#: template/custom-redux-options.php:1885
+msgid "Animation Style"
+msgstr ""
+
+#: template/custom-redux-options.php:1902
+msgid "Animation Offset "
+msgstr ""
+
+#: template/custom-redux-options.php:1903
+msgid ""
+"animation will be triggered only when portfolio reaches particular "
+"percentage on viewport"
+msgstr ""
+
+#: template/custom-redux-options.php:1912
+msgid "Posttype Settings"
+msgstr ""
+
+#: template/custom-redux-options.php:1915
+msgid ""
+"Here, you can setup the post count, order, etc. Note: Most of these "
+"portfolio settings apply only when you choose portfolio at template "
+"attributes"
+msgstr ""
+
+#: template/custom-redux-options.php:1920
+msgid "Number of Portfolio items per page"
+msgstr ""
+
+#: template/custom-redux-options.php:1921
+msgid "type the number of post to show in a portfolio page"
+msgstr ""
+
+#: template/custom-redux-options.php:1929
+msgid "Portfolio items Order"
+msgstr ""
+
+#: template/custom-redux-options.php:1930
+msgid "Portfolio posts sorting order."
+msgstr ""
+
+#: template/custom-redux-options.php:1940
+msgid "Portfolio Items Orderby"
+msgstr ""
+
+#: template/custom-redux-options.php:1941
+msgid "Portfolio posts sorting orderby."
+msgstr ""
+
+#: template/custom-redux-options.php:1945
+msgid "Post Author"
+msgstr ""
+
+#: template/custom-redux-options.php:1946
+msgid "Post Title"
+msgstr ""
+
+#: template/custom-redux-options.php:1947
+msgid "Post Slug"
+msgstr ""
+
+#: template/custom-redux-options.php:1949
+msgid "Last Modified Date"
+msgstr ""
+
+#: template/custom-redux-options.php:1951
+msgid "comment-count"
+msgstr ""
+
+#: template/custom-redux-options.php:1952
+msgid "menu_order"
+msgstr ""
+
+#: template/custom-redux-options.php:1960
+msgid "Portfolio Items exclude"
+msgstr ""
+
+#: template/custom-redux-options.php:1961
+msgid "you can exclude the posts by typing post ids for ex. 70, 45"
+msgstr ""
+
+#: template/custom-redux-options.php:1968
+msgid "Portfolio Link target"
+msgstr ""
+
+#: template/custom-redux-options.php:1969
+msgid "Choose the target of the portfolio items link."
+msgstr ""
+
+#: template/custom-redux-options.php:1979
+msgid "Portfolio Navigation Style"
+msgstr ""
+
+#: template/custom-redux-options.php:1980
+#: template/custom-redux-options.php:2123
+msgid "Choose any of one navigation style to display on the portfolio page."
+msgstr ""
+
+#: template/custom-redux-options.php:1992
+msgid "Portfolio single Previous Text "
+msgstr ""
+
+#: template/custom-redux-options.php:1993
+msgid "you can use the Word Previous or Older"
+msgstr ""
+
+#: template/custom-redux-options.php:2001
+msgid "Portfolio single Next Text "
+msgstr ""
+
+#: template/custom-redux-options.php:2002
+msgid "you can use the Word Next or Newer"
+msgstr ""
+
+#: template/custom-redux-options.php:2009
+msgid "Portfolio Single Back Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2010
+msgid ""
+"it will help you to go back/home when your are in portfolio's single page"
+msgstr ""
+
+#: template/custom-redux-options.php:2024
+msgid "Portfolio Sharing icons"
+msgstr ""
+
+#: template/custom-redux-options.php:2025
+msgid ""
+"This option enable the sharing panel at the bottom of every portfolio item."
+msgstr ""
+
+#: template/custom-redux-options.php:2056
+msgid "Shop Settings"
+msgstr ""
+
+#: template/custom-redux-options.php:2065
+msgid "Here, you can enable/disable basic shop options."
+msgstr ""
+
+#: template/custom-redux-options.php:2071
+msgid "Shop Layout(Columns)"
+msgstr ""
+
+#: template/custom-redux-options.php:2072
+msgid "Layout for your Shop page "
+msgstr ""
+
+#: template/custom-redux-options.php:2073
+msgid "Choose an image to your shop page"
+msgstr ""
+
+#: template/custom-redux-options.php:2085
+msgid "If you need fullwidth Shop section. just enable it."
+msgstr ""
+
+#: template/custom-redux-options.php:2099
+msgid "Shop Grid Style"
+msgstr ""
+
+#: template/custom-redux-options.php:2100
+msgid "Choose any of one grid style. fitRows is default and "
+msgstr ""
+
+#: template/custom-redux-options.php:2111
+msgid "Shop Sidebar"
+msgstr ""
+
+#: template/custom-redux-options.php:2122
+msgid "Shop Navigation Style"
+msgstr ""
+
+#: template/custom-redux-options.php:2136
+msgid "Single Fullwidth"
+msgstr ""
+
+#: template/custom-redux-options.php:2137
+msgid "If you need fullwidth Single shop page. just enable it."
+msgstr ""
+
+#: template/custom-redux-options.php:2143
+msgid "Single Thumbnails style"
+msgstr ""
+
+#: template/custom-redux-options.php:2145
+msgid "Style 1(Lightbox)"
+msgstr ""
+
+#: template/custom-redux-options.php:2146
+msgid "Style 2(Zoom)"
+msgstr ""
+
+#: template/custom-redux-options.php:2153
+msgid "Single Shop Sidebar"
+msgstr ""
+
+#: template/custom-redux-options.php:2172
+msgid "Shop Single Page Sharing icons"
+msgstr ""
+
+#: template/custom-redux-options.php:2173
+msgid "This option enable the sharing panel at the bottom of every product."
+msgstr ""
+
+#: template/custom-redux-options.php:2204
+msgid "Sliders settings"
+msgstr ""
+
+#: template/custom-redux-options.php:2211
+msgid "Slideshow Slider"
+msgstr ""
+
+#: template/custom-redux-options.php:2219
+#: template/custom-redux-options.php:2265
+#: template/custom-redux-options.php:2311
+#: template/custom-redux-options.php:2433
+msgid "Slider Duration "
+msgstr ""
+
+#: template/custom-redux-options.php:2220
+#: template/custom-redux-options.php:2230
+#: template/custom-redux-options.php:2266
+#: template/custom-redux-options.php:2276
+#: template/custom-redux-options.php:2312
+#: template/custom-redux-options.php:2322
+#: template/custom-redux-options.php:2434
+#: template/custom-redux-options.php:2444
+msgid "Visible period of your slider in ms"
+msgstr ""
+
+#: template/custom-redux-options.php:2229
+#: template/custom-redux-options.php:2275
+#: template/custom-redux-options.php:2321
+#: template/custom-redux-options.php:2443
+msgid "Transition Speed "
+msgstr ""
+
+#: template/custom-redux-options.php:2239
+msgid "Slideshow animation type"
+msgstr ""
+
+#: template/custom-redux-options.php:2240
+msgid "select your Slideshow animation type to display on the slideshow slider"
+msgstr ""
+
+#: template/custom-redux-options.php:2241
+#: template/custom-redux-options.php:2287
+#: template/custom-redux-options.php:2333
+#: template/custom-redux-options.php:2455
+msgid "Fade"
+msgstr ""
+
+#: template/custom-redux-options.php:2241
+#: template/custom-redux-options.php:2287
+#: template/custom-redux-options.php:2333
+#: template/custom-redux-options.php:2455
+msgid "Slide"
+msgstr ""
+
+#: template/custom-redux-options.php:2285
+msgid "Textslider animation type"
+msgstr ""
+
+#: template/custom-redux-options.php:2286
+msgid ""
+"select your Textslider animation type to display on the textslider slider"
+msgstr ""
+
+#: template/custom-redux-options.php:2331
+msgid "imageslider animation type"
+msgstr ""
+
+#: template/custom-redux-options.php:2332
+msgid ""
+"select your imageslider animation type to display on the imageslider slider"
+msgstr ""
+
+#: template/custom-redux-options.php:2357
+msgid "Show Controls"
+msgstr ""
+
+#: template/custom-redux-options.php:2364
+msgid "It doesn't affect selfhosted video"
+msgstr ""
+
+#: template/custom-redux-options.php:2378
+msgid "Disable this to unmute!!.."
+msgstr ""
+
+#: template/custom-redux-options.php:2388
+msgid "Volume"
+msgstr ""
+
+#: template/custom-redux-options.php:2389
+msgid "sound level of the video by default"
+msgstr ""
+
+#: template/custom-redux-options.php:2399
+msgid "Video Quality"
+msgstr ""
+
+#: template/custom-redux-options.php:2400
+msgid "Choose the quality of the video!!.."
+msgstr ""
+
+#: template/custom-redux-options.php:2401
+msgid "Maximum quality"
+msgstr ""
+
+#: template/custom-redux-options.php:2408
+msgid "StartAt "
+msgstr ""
+
+#: template/custom-redux-options.php:2409
+msgid "Set the seconds the video should start at"
+msgstr ""
+
+#: template/custom-redux-options.php:2417
+msgid "StopAt"
+msgstr ""
+
+#: template/custom-redux-options.php:2418
+msgid "Set the seconds the video should stop at.. If 0 is ignored."
+msgstr ""
+
+#: template/custom-redux-options.php:2427
+msgid "setup your video bg text transition setting."
+msgstr ""
+
+#: template/custom-redux-options.php:2453
+msgid "Text animation type"
+msgstr ""
+
+#: template/custom-redux-options.php:2454
+msgid "select your text animation type to display on the video slider"
+msgstr ""
+
+#: template/custom-redux-options.php:2472
+msgid "404 Error Page"
+msgstr ""
+
+#: template/custom-redux-options.php:2473
+msgid "you change your 404 page content here."
+msgstr ""
+
+#: template/custom-redux-options.php:2479
+#: template/custom-redux-options.php:2480
+msgid "404 Title"
+msgstr ""
+
+#: template/custom-redux-options.php:2486
+msgid "404 Description Text"
+msgstr ""
+
+#: template/custom-redux-options.php:2487
+msgid "you can type your 404 description here.."
+msgstr ""
+
+#: template/custom-redux-options.php:2507
+msgid "Social Network links"
+msgstr ""
+
+#: template/custom-redux-options.php:2508
+msgid "Fill your links for social network."
+msgstr ""
+
+#: template/custom-redux-options.php:2514
+msgid "Facebook Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2515
+msgid "Link your profile page"
+msgstr ""
+
+#: template/custom-redux-options.php:2522
+msgid "Twitter Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2529
+msgid "Google + Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2536
+msgid "BitBucket Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2543
+msgid "Behance Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2550
+msgid "Dribbble Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2557
+msgid "Flickr Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2564
+msgid "GitHub Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2571
+msgid "Instagram Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2578
+msgid "Linkedin Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2585
+msgid "Pinterest Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2592
+msgid "Reddit Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2599
+msgid "SoundCloud Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2606
+msgid "Skype Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2612
+msgid "Stack Overflow Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2619
+msgid "Tumblr Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2626
+msgid "Vimeo Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2633
+msgid "VK Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2640
+msgid "Weibo Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2647
+msgid "WhatsApp Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2653
+msgid "Youtube Link"
+msgstr ""
+
+#: template/custom-redux-options.php:2662
+msgid "Custom Coding"
+msgstr ""
+
+#: template/custom-redux-options.php:2665
+#: template/custom-redux-options.php:2764
+msgid ""
+"This section used for advance customization, you can add your own codes here."
+msgstr ""
+
+#: template/custom-redux-options.php:2670
+msgid "CSS Code"
+msgstr ""
+
+#: template/custom-redux-options.php:2671
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: template/custom-redux-options.php:2680
+msgid "JS Code"
+msgstr ""
+
+#: template/custom-redux-options.php:2681
+msgid "Paste your JS code here."
+msgstr ""
+
+#: template/custom-redux-options.php:2761
+msgid "System Information"
+msgstr ""
+
+#: template/custom-redux-options.php:2844
+msgid "Section via hook"
+msgstr ""
+
+#: template/custom-redux-options.php:2845
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: template/template-tags.php:26 template/template-tags.php:58
+msgid "Portfolio navigation"
+msgstr ""
+
+#: template/template-tags.php:93
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: template/template-tags.php:109
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: template/template-tags.php:126
+msgid ", "
+msgstr ""
+
+#: template/template-tags.php:128 template/template-tags.php:144
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: template/template-tags.php:142
+msgid " "
+msgstr ""
+
+#: template/template-tags.php:158
+msgid "Leave a comment"
+msgstr ""
+
+#: template/template-tags.php:158
+msgid "1 Comment"
+msgstr ""
+
+#: template/template-tags.php:158
+msgid "% Comments"
+msgstr ""
+
+#: template/theme-functions.php:34
+msgid "Primary Menu"
+msgstr ""
+
+#: template/theme-functions.php:58
+msgid "Footer bar"
+msgstr ""
+
+#: template/theme-functions.php:151 woocommerce/product-searchform.php:26
+msgid "Search for:"
+msgstr ""
+
+#: template/theme-functions.php:152
+msgid "Search"
+msgstr ""
+
+#: template/theme-functions.php:177
+msgid "Continue reading"
+msgstr ""
+
+#: template/theme-functions.php:209 woocommerce/loop/pagination.php:30
+msgid "Previous"
+msgstr ""
+
+#: template/theme-functions.php:256
+msgid "Home"
+msgstr ""
+
+#: template/theme-functions.php:1227
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: template/theme-functions.php:1230
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: template/theme-functions.php:1232
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: template/theme-functions.php:1234
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template/theme-functions.php:1237
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: template/widgets/agni_widget_about_text.php:21
+msgid "Cookie: About Text"
+msgstr ""
+
+#: template/widgets/agni_widget_about_text.php:24
+msgid ""
+"Extented version of text widget which allows you to set image & heading."
+msgstr ""
+
+#: template/widgets/agni_widget_about_text.php:58
+msgid "About Me"
+msgstr ""
+
+#: template/widgets/agni_widget_about_text.php:67
+#: template/widgets/agni_widget_latest_posts.php:84
+#: template/widgets/agni_widget_latest_works.php:102
+#: template/widgets/agni_widget_social_icons.php:101
+msgid "Title:"
+msgstr ""
+
+#: template/widgets/agni_widget_about_text.php:73
+msgid "Add Image"
+msgstr ""
+
+#: template/widgets/agni_widget_about_text.php:76
+msgid "Heading:"
+msgstr ""
+
+#: template/widgets/agni_widget_about_text.php:81
+msgid "Description:"
+msgstr ""
+
+#: template/widgets/agni_widget_instagram_feed.php:21
+msgid "Cookie: Instagram Feed"
+msgstr ""
+
+#: template/widgets/agni_widget_instagram_feed.php:24
+msgid "Your instagram's most recent posts with unique layout of cookie."
+msgstr ""
+
+#: template/widgets/agni_widget_instagram_feed.php:82
+msgid "Instagram"
+msgstr ""
+
+#: template/widgets/agni_widget_instagram_feed.php:82
+msgid "Follow Us"
+msgstr ""
+
+#: template/widgets/agni_widget_instagram_feed.php:90
+msgid "Username"
+msgstr ""
+
+#: template/widgets/agni_widget_instagram_feed.php:91
+msgid "Number of photos"
+msgstr ""
+
+#: template/widgets/agni_widget_instagram_feed.php:92
+msgid "Open links in"
+msgstr ""
+
+#: template/widgets/agni_widget_instagram_feed.php:94
+msgid "Current window (_self)"
+msgstr ""
+
+#: template/widgets/agni_widget_instagram_feed.php:95
+msgid "New window (_blank)"
+msgstr ""
+
+#: template/widgets/agni_widget_instagram_feed.php:98
+msgid "Link text"
+msgstr ""
+
+#: template/widgets/agni_widget_instagram_feed.php:123
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: template/widgets/agni_widget_instagram_feed.php:126
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: template/widgets/agni_widget_instagram_feed.php:133
+#: template/widgets/agni_widget_instagram_feed.php:144
+#: template/widgets/agni_widget_instagram_feed.php:148
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: template/widgets/agni_widget_instagram_feed.php:189
+msgid "Instagram Image"
+msgstr ""
+
+#: template/widgets/agni_widget_instagram_feed.php:215
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: template/widgets/agni_widget_latest_posts.php:21
+msgid "Cookie: Latest Posts"
+msgstr ""
+
+#: template/widgets/agni_widget_latest_posts.php:24
+msgid ""
+"Your site's most recent posts with unique layout of cookie. You can also "
+"display the latest posts of particular category."
+msgstr ""
+
+#: template/widgets/agni_widget_latest_posts.php:75
+msgid "Latest Posts"
+msgstr ""
+
+#: template/widgets/agni_widget_latest_posts.php:89
+#: template/widgets/agni_widget_latest_works.php:107
+msgid "Show by category:"
+msgstr ""
+
+#: template/widgets/agni_widget_latest_posts.php:91
+#: template/widgets/agni_widget_latest_works.php:109
+msgid "All Categories"
+msgstr ""
+
+#: template/widgets/agni_widget_latest_posts.php:99
+#: template/widgets/agni_widget_latest_works.php:117
+msgid "Number of posts to show:"
+msgstr ""
+
+#: template/widgets/agni_widget_latest_works.php:21
+msgid "Cookie: Latest Works"
+msgstr ""
+
+#: template/widgets/agni_widget_latest_works.php:24
+msgid ""
+"Your site's most recent works with unique layout of cookie. You can also "
+"display the latest works of particular category."
+msgstr ""
+
+#: template/widgets/agni_widget_latest_works.php:93
+msgid "Latest Works"
+msgstr ""
+
+#: template/widgets/agni_widget_social_icons.php:21
+msgid "Cookie: Social Icons"
+msgstr ""
+
+#: template/widgets/agni_widget_social_icons.php:24
+msgid ""
+"A set of social icons to display social media links. This is designed only "
+"for cookie."
+msgstr ""
+
+#: template/widgets/agni_widget_social_icons.php:110
+msgid "Facebook:"
+msgstr ""
+
+#: template/widgets/agni_widget_social_icons.php:115
+msgid "Twitter:"
+msgstr ""
+
+#: template/widgets/agni_widget_social_icons.php:120
+msgid "Google Plus:"
+msgstr ""
+
+#: template/widgets/agni_widget_social_icons.php:125
+msgid "Dribbble:"
+msgstr ""
+
+#: template/widgets/agni_widget_social_icons.php:130
+msgid "Instagram:"
+msgstr ""
+
+#: template/widgets/agni_widget_social_icons.php:135
+msgid "Behance:"
+msgstr ""
+
+#: template/widgets/agni_widget_social_icons.php:140
+msgid "Pinterest:"
+msgstr ""
+
+#: template/widgets/agni_widget_social_icons.php:145
+msgid "Flickr:"
+msgstr ""
+
+#: template/widgets/agni_widget_social_icons.php:150
+msgid "Tumblr:"
+msgstr ""
+
+#: template/widgets/agni_widget_social_icons.php:155
+msgid "Youtube:"
+msgstr ""
+
+#: template/woocommerce/class-wc-widget-cart.php:25
+msgid "Display the user's Cart in the sidebar."
+msgstr ""
+
+#: template/woocommerce/class-wc-widget-cart.php:27
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: template/woocommerce/class-wc-widget-cart.php:31
+msgid "Cart"
+msgstr ""
+
+#: template/woocommerce/class-wc-widget-cart.php:37
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: template/woocommerce/functions.php:25
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:52
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:84
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:130
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:130
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:130
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:48
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:20
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/product-searchform.php:27
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:27
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:24
+#: woocommerce/single-product/rating.php:33
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:40
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:29
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:30
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/tabs/additional-information.php:16
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:16
+msgid "Product Description"
+msgstr ""
